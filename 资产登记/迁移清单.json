@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-10-04",
-  "migration_state": "backup_created; original cleanup pending verified Private remote push",
+  "migration_state": "completed; Private remote recheckout and all hashes verified before cleanup",
   "sources": [
     {
       "source_id": "SRC-001",
@@ -3995,70 +3995,70 @@
       "old_path": "中文翻译_副本/01_桨叶推进与划桨力学/Hemon2018_Sea_Kayak_Paddles_中文.md",
       "sha256": "1287a941b8e0b05458c4366eb4242fcfe8f9c23b59c4715c5ce5f16f6b5aa1c8",
       "canonical_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-002",
       "old_path": "中文翻译_副本/01_桨叶推进与划桨力学/Gomes2015_Paddling_Force_Profiles_中文.md",
       "sha256": "835b5d447854cba83203d4fdebcadd5cbb15d2c2d7af69a27c8ae81235a728a7",
       "canonical_path": "中文资料/01_桨叶推进与划桨力学/SRC-002/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-003",
       "old_path": "中文翻译_副本/01_桨叶推进与划桨力学/Kayak blade–hull interactions - A body force approach for self-propelled simulations_中文.md",
       "sha256": "6711a2c63cc3a914185bb56cfe87a1ce902f7ff98de2c2f3a0df38488ae46eb2",
       "canonical_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-004",
       "old_path": "中文翻译_副本/02_艇体水动力与性能/Performance prediction for Olympic kayaks_中文.md",
       "sha256": "bdffada0385941ca20c89e2be73a7a4e45c76d6839f0b40b34b0d0e94db0a496",
       "canonical_path": "中文资料/02_艇体水动力与性能/SRC-004/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-006",
       "old_path": "中文翻译_副本/02_艇体水动力与性能/Ki2012_Inflatable_Kayak_Evaluation_Method_中文.md",
       "sha256": "71ec2554dc42da9129e21d1457b176108cbc3d48b5d5e7e59c086ee6a9b047e7",
       "canonical_path": "中文资料/02_艇体水动力与性能/SRC-006/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-007",
       "old_path": "中文翻译_副本/02_艇体水动力与性能/Hah2013_Inflatable_Kayak_Hydrodynamics_中文.md",
       "sha256": "a4829b173fbdce025bca42c0f79614e6c5e474cdc9fe7c79bad063f85d32bfb6",
       "canonical_path": "中文资料/02_艇体水动力与性能/SRC-007/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-011",
       "old_path": "中文翻译_副本/03_激流回旋与控船/Hunter2009_Upstream_Gate_Trajectory_中文.md",
       "sha256": "b7641712070804b43dcffad3853430b12173ce0807d4bbb423aacf7b7f9d8c7c",
       "canonical_path": "中文资料/03_激流回旋与控船/SRC-011/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-012",
       "old_path": "中文翻译_副本/03_激流回旋与控船/Messias2021_Canoe_Slalom_Performance_Review_中文.md",
       "sha256": "9293279cb5197920d3576031bf367fe055ee9de4a7fed7febfa946d31e6afeb0",
       "canonical_path": "中文资料/03_激流回旋与控船/SRC-012/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-014",
       "old_path": "中文翻译_副本/04_白水河流流体力学/Coherent turbulent structures at the mixing-interface of a square open-channel lateral cavity_中文.md",
       "sha256": "eea69c776c34a938698a005d5025d905f87430e6bb5acf7f37e073ecf730a927",
       "canonical_path": "中文资料/04_白水河流流体力学/SRC-014/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     },
     {
       "source_id": "SRC-023",
       "old_path": "中文翻译_副本/90_低优先级或参考/02_桨叶与水相互作用_中文.md",
       "sha256": "8d413e5eed3cf57c3d7a8ac58374cb695348849c170f894260d654b4f632352a",
       "canonical_path": "中文资料/90_低优先级或参考/SRC-023/中文译文.md",
-      "status": "与迁移前现行主稿字节完全相同；重复全文不纳入 Git，待备份成功后删除原副本"
+      "status": "已去重；原重复副本在 Private 推送／重检出／SHA 验证后删除"
     }
   ],
   "images": [
@@ -7849,127 +7849,274 @@
       "old_path": "中文翻译/02_艇体水动力与性能/Hah2013_术语对照与冲突说明.md",
       "sha256": "d73c00802641b99b2fad6103aecd58a48269995d7d078ce6453542b0a05d6783",
       "source_id": "SRC-007",
-      "file_id": "F-001"
+      "file_id": "F-001",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/02_艇体水动力与性能/Hah2015_术语对照与冲突说明.md",
       "sha256": "caf3246c07e543e9632bd2ad9872e070e2347ae2f782732ecc0f15099e3a2ba8",
       "source_id": "SRC-008",
-      "file_id": "F-002"
+      "file_id": "F-002",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/02_艇体水动力与性能/Halswell2011_术语对照与冲突说明.md",
       "sha256": "a2d75778b12cd8bec9dedb53011cc7bd713518dc524e1647078af5396a5688c8",
       "source_id": "SRC-010",
-      "file_id": "F-003"
+      "file_id": "F-003",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/02_艇体水动力与性能/Halswell2012_术语对照与冲突说明.md",
       "sha256": "1d48886b1e2b6d636344cf24974bede1e4b7e208467444fa75131d0c72950463",
       "source_id": "SRC-009",
-      "file_id": "F-004"
+      "file_id": "F-004",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/02_艇体水动力与性能/Ki2012_术语对照与冲突说明.md",
       "sha256": "1ae3a0ebf1fb0389c5554f0b8c99698c2872740521baaf9d7452495dbb9a2992",
       "source_id": "SRC-006",
-      "file_id": "F-005"
+      "file_id": "F-005",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/04_白水河流流体力学/Chanson2009_术语对照与冲突说明.md",
       "sha256": "55ee765c7cec144138c1ac668636b396a3abaf0d3d168aedaf6f846113df46ac",
       "source_id": "SRC-016",
-      "file_id": "F-006"
+      "file_id": "F-006",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/04_白水河流流体力学/Han2017_术语对照与冲突说明.md",
       "sha256": "0872714738afdab2f355822d6d74144201609c28ec79cfad4a4a1c285df6d674",
       "source_id": "SRC-018",
-      "file_id": "F-007"
+      "file_id": "F-007",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/04_白水河流流体力学/Kieffer1985_术语对照与冲突说明.md",
       "sha256": "ebd18fef17e4a2569a8ffa5f18d610ee51b9502bb16cb6ef0eefe046fa484437",
       "source_id": "SRC-015",
-      "file_id": "F-008"
+      "file_id": "F-008",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/04_白水河流流体力学/Wyrick2008_术语对照与冲突说明.md",
       "sha256": "a9c486746bf54a0b0fbc868d9232097a81e4342809bd44b566448baf383a8d6f",
       "source_id": "SRC-017",
-      "file_id": "F-009"
+      "file_id": "F-009",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/05_人体生物力学与训练/Michael2009_术语对照与冲突说明.md",
       "sha256": "486884df10f5a6894156cca395e8b0c3519833267b25c7fb945090fea96ec0d1",
       "source_id": "SRC-021",
-      "file_id": "F-010"
+      "file_id": "F-010",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/90_低优先级或参考/Aksoy2023_术语对照与冲突说明.md",
       "sha256": "e83608923c669c95dc79bdb6e044b1fc5fa36a1a50c9744a1144e5e91633e7b8",
       "source_id": "SRC-024",
-      "file_id": "F-011"
+      "file_id": "F-011",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译/90_低优先级或参考/Kendal1992_术语对照与冲突说明.md",
       "sha256": "34412d6c4fa2c6a4ec52f4d8af36065d885d794d752ef1d9f92ab7688766dd7b",
       "source_id": "SRC-022",
-      "file_id": "F-012"
+      "file_id": "F-012",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/02_艇体水动力与性能/Hah2013_术语对照与冲突说明.md",
       "sha256": "d73c00802641b99b2fad6103aecd58a48269995d7d078ce6453542b0a05d6783",
       "source_id": "SRC-007",
-      "file_id": "F-013"
+      "file_id": "F-013",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/02_艇体水动力与性能/Hah2015_术语对照与冲突说明.md",
       "sha256": "caf3246c07e543e9632bd2ad9872e070e2347ae2f782732ecc0f15099e3a2ba8",
       "source_id": "SRC-008",
-      "file_id": "F-014"
+      "file_id": "F-014",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/02_艇体水动力与性能/Ki2012_术语对照与冲突说明.md",
       "sha256": "1ae3a0ebf1fb0389c5554f0b8c99698c2872740521baaf9d7452495dbb9a2992",
       "source_id": "SRC-006",
-      "file_id": "F-015"
+      "file_id": "F-015",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/04_白水河流流体力学/Chanson2009_术语对照与冲突说明.md",
       "sha256": "5aca47dde6d38e4eabde9eeb108469dac66baeab91ad607fb7c1e39cac2812e0",
       "source_id": "SRC-016",
-      "file_id": "F-016"
+      "file_id": "F-016",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/04_白水河流流体力学/Han2017_术语对照与冲突说明.md",
       "sha256": "48a5a456da0f157563790bb22604cace4a39840daa182ed5366a20a916f58fb2",
       "source_id": "SRC-018",
-      "file_id": "F-017"
+      "file_id": "F-017",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/04_白水河流流体力学/Kieffer1985_术语对照与冲突说明.md",
       "sha256": "ebd18fef17e4a2569a8ffa5f18d610ee51b9502bb16cb6ef0eefe046fa484437",
       "source_id": "SRC-015",
-      "file_id": "F-018"
+      "file_id": "F-018",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/04_白水河流流体力学/Wyrick2008_术语对照与冲突说明.md",
       "sha256": "0769aaf7b67fa012363db8a0692b4647acc754e5157653352906dd3d9e7e1d77",
       "source_id": "SRC-017",
-      "file_id": "F-019"
+      "file_id": "F-019",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/05_人体生物力学与训练/Michael2009_术语对照与冲突说明.md",
       "sha256": "486884df10f5a6894156cca395e8b0c3519833267b25c7fb945090fea96ec0d1",
       "source_id": "SRC-021",
-      "file_id": "F-020"
+      "file_id": "F-020",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     },
     {
       "old_path": "中文翻译_副本/90_低优先级或参考/Kendal1992_术语对照与冲突说明.md",
       "sha256": "34412d6c4fa2c6a4ec52f4d8af36065d885d794d752ef1d9f92ab7688766dd7b",
       "source_id": "SRC-022",
-      "file_id": "F-021"
+      "file_id": "F-021",
+      "absorption_versions": {
+        "general": "v2.4 unchanged",
+        "professional": "v1.2",
+        "pending": "TERM-001～019",
+        "discrepancy": "DISCREPANCY-001～053"
+      },
+      "safely_deleted": true
     }
   ],
   "original_file_inventory": {
@@ -9162,5 +9309,43 @@
     "中文翻译/SOURCE_INDEX.md": "历史版本/整理前索引与基线/中文翻译_SOURCE_INDEX.md",
     "中文翻译/TRANSLATION_PROGRESS.md": "历史版本/整理前索引与基线/中文翻译_TRANSLATION_PROGRESS.md",
     "中文翻译_副本/TRANSLATION_PROGRESS.md": "历史版本/整理前索引与基线/中文翻译_副本_TRANSLATION_PROGRESS.md"
+  },
+  "cleanup_verification": {
+    "date": "2026-10-04",
+    "private_visibility": "PRIVATE",
+    "verified_remote_sha_before_cleanup": "2fee28731e63a8ec6859b45edc7251f011bf26a9",
+    "remote_recheckout_verified": {
+      "original_pdfs": 24,
+      "current_translations": 24,
+      "differing_history_translations": 9,
+      "duplicate_translations_excluded": 10,
+      "unique_images": 283,
+      "unreferenced_unique_images": 28,
+      "original_files_accounted_for": 604,
+      "markdown": {
+        "markdown_files": 41,
+        "internal_links": 511,
+        "errors": []
+      }
+    },
+    "originals_accounted_for": 604,
+    "duplicate_old_translations_deleted": 10,
+    "terminology_intermediate_files_deleted": 21,
+    "differing_old_translations_preserved": 9,
+    "duplicate_image_files_deduplicated": 227,
+    "unique_images_preserved": 283,
+    "unreferenced_unique_images_preserved": 28,
+    "no_unique_asset_deleted": true,
+    "incoming_term_links_at_cleanup": 0,
+    "old_local_structures_removed": [
+      "01_桨叶推进与划桨力学",
+      "02_艇体水动力与性能",
+      "03_激流回旋与控船",
+      "04_白水河流流体力学",
+      "05_人体生物力学与训练",
+      "90_低优先级或参考",
+      "中文翻译",
+      "中文翻译_副本"
+    ]
   }
 }
