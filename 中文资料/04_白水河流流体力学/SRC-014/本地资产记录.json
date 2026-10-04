@@ -1,0 +1,182 @@
+{
+  "source_id": "SRC-014",
+  "title_zh": "方形明渠侧向凹腔混合界面处的相干紊流结构",
+  "title_original": "Coherent turbulent structures at the mixing-interface of a square open-channel lateral cavity",
+  "doi": "10.1063/1.4945264",
+  "original_language": "en",
+  "original_sha256": "2c05ec050942156b70fab6a70ef2a31c45d6c0b02559377f604c786dbfdc9d67",
+  "translation_sha256": "919c8edb0296e8a73a3a03e1c47a9b363b744084d3132874c4557c2430f1b479",
+  "inventory_translation_sha256": "eea69c776c34a938698a005d5025d905f87430e6bb5acf7f37e073ecf730a927",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "04_白水河流流体力学/Coherent turbulent structures at the mixing-interface of a square open-channel lateral cavity.pdf",
+    "translation": "中文翻译/04_白水河流流体力学/SRC-014-04_白水河流流体力学-方形明渠侧向凹腔混合界面处的相干紊流结构.md"
+  },
+  "current_paths": {
+    "original": "中文资料/04_白水河流流体力学/SRC-014/原始证据/Coherent turbulent structures at the mixing-interface of a square open-channel lateral cavity.pdf",
+    "translation": "中文资料/04_白水河流流体力学/SRC-014/中文译文.md",
+    "asset_record": "中文资料/04_白水河流流体力学/SRC-014/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "HAL 收录，正文 p.3 仍有 ©2016 AIP；存档开放访问不等于可再许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/mignot2016/fig01.png",
+      "new": "图片/mignot2016/fig01.png",
+      "resource_sha256": "0114fb516d6f28c617801bf65f63e6be74212ea219f089773c913b3f37b9932d"
+    },
+    {
+      "old": "assets/mignot2016/fig02.png",
+      "new": "图片/mignot2016/fig02.png",
+      "resource_sha256": "b937ed32c94459f1d619924f0a846218e597cc5b64d205cc58cb298d4d0eb80b"
+    },
+    {
+      "old": "assets/mignot2016/fig03.png",
+      "new": "图片/mignot2016/fig03.png",
+      "resource_sha256": "316fc3a18e66b54e29a5cc731ea529c08991f75e42dc09459618a1ec196a6692"
+    },
+    {
+      "old": "assets/mignot2016/fig04.png",
+      "new": "图片/mignot2016/fig04.png",
+      "resource_sha256": "c2287d4a60baa826a135e9bd1d4c50a2ac141632b7b04d15a5e7ec0632215aeb"
+    },
+    {
+      "old": "assets/mignot2016/fig05.png",
+      "new": "图片/mignot2016/fig05.png",
+      "resource_sha256": "b7e14d191bba623cd699e2a9595d0ed78cf82773e31dd2867a4afd2ee7f3f688"
+    },
+    {
+      "old": "assets/mignot2016/fig06.png",
+      "new": "图片/mignot2016/fig06.png",
+      "resource_sha256": "8ecea42c41e0a5f176e82a2e438af851f9cb02231645b85989a8b37ab7a553dd"
+    },
+    {
+      "old": "assets/mignot2016/fig07.png",
+      "new": "图片/mignot2016/fig07.png",
+      "resource_sha256": "e5a2a6be495e6a7ceebc72e019d6a6161243ddea558153391cd8358ac50f361c"
+    },
+    {
+      "old": "assets/mignot2016/fig08.png",
+      "new": "图片/mignot2016/fig08.png",
+      "resource_sha256": "ff9477c99da5cf093d351f4ad67f652a01491c058fc665e27a8ad6cd75daad92"
+    },
+    {
+      "old": "assets/mignot2016/fig09.png",
+      "new": "图片/mignot2016/fig09.png",
+      "resource_sha256": "85d7ff351064798a7ca4cc6be796a2b4a44b27ed9c8acd715609fe44f512628a"
+    },
+    {
+      "old": "assets/mignot2016/fig10.png",
+      "new": "图片/mignot2016/fig10.png",
+      "resource_sha256": "45ce339d2e9fa7db5a0fcd68282d88a9371f78ac20462bd368c12d8c399fcad1"
+    },
+    {
+      "old": "assets/mignot2016/fig11.png",
+      "new": "图片/mignot2016/fig11.png",
+      "resource_sha256": "e197b3baac58e196dac1baccb96f0b8827665388dc82d0a4821a070d9595ecfa"
+    },
+    {
+      "old": "assets/mignot2016/fig12.png",
+      "new": "图片/mignot2016/fig12.png",
+      "resource_sha256": "6e1d0b6c7224bf1dafb3b7c3d0de3e1065c5324171c5923d0723d17c67f7e173"
+    },
+    {
+      "old": "assets/mignot2016/fig13.png",
+      "new": "图片/mignot2016/fig13.png",
+      "resource_sha256": "45989536423bd724d3b4ed1dd7f720720a0c2efa4a966278d98bde0bf5fc2f29"
+    },
+    {
+      "old": "assets/mignot2016/fig14.png",
+      "new": "图片/mignot2016/fig14.png",
+      "resource_sha256": "51f0e5a34a09246b79c0941feb5b1810cf4638472f9cf2c0374085d6bc549f98"
+    },
+    {
+      "old": "assets/mignot2016/fig15.png",
+      "new": "图片/mignot2016/fig15.png",
+      "resource_sha256": "5d79f2161d4186d9bf56b32c2148d60e46d15e89921966e176ba5b69f4c0fb12"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig01.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig01.png",
+      "sha256": "0114fb516d6f28c617801bf65f63e6be74212ea219f089773c913b3f37b9932d"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig02.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig02.png",
+      "sha256": "b937ed32c94459f1d619924f0a846218e597cc5b64d205cc58cb298d4d0eb80b"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig03.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig03.png",
+      "sha256": "316fc3a18e66b54e29a5cc731ea529c08991f75e42dc09459618a1ec196a6692"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig04.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig04.png",
+      "sha256": "c2287d4a60baa826a135e9bd1d4c50a2ac141632b7b04d15a5e7ec0632215aeb"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig05.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig05.png",
+      "sha256": "b7e14d191bba623cd699e2a9595d0ed78cf82773e31dd2867a4afd2ee7f3f688"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig06.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig06.png",
+      "sha256": "8ecea42c41e0a5f176e82a2e438af851f9cb02231645b85989a8b37ab7a553dd"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig07.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig07.png",
+      "sha256": "e5a2a6be495e6a7ceebc72e019d6a6161243ddea558153391cd8358ac50f361c"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig08.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig08.png",
+      "sha256": "ff9477c99da5cf093d351f4ad67f652a01491c058fc665e27a8ad6cd75daad92"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig09.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig09.png",
+      "sha256": "85d7ff351064798a7ca4cc6be796a2b4a44b27ed9c8acd715609fe44f512628a"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig10.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig10.png",
+      "sha256": "45ce339d2e9fa7db5a0fcd68282d88a9371f78ac20462bd368c12d8c399fcad1"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig11.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig11.png",
+      "sha256": "e197b3baac58e196dac1baccb96f0b8827665388dc82d0a4821a070d9595ecfa"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig12.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig12.png",
+      "sha256": "6e1d0b6c7224bf1dafb3b7c3d0de3e1065c5324171c5923d0723d17c67f7e173"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig13.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig13.png",
+      "sha256": "45989536423bd724d3b4ed1dd7f720720a0c2efa4a966278d98bde0bf5fc2f29"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig14.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig14.png",
+      "sha256": "51f0e5a34a09246b79c0941feb5b1810cf4638472f9cf2c0374085d6bc549f98"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/mignot2016/fig15.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-014/图片/mignot2016/fig15.png",
+      "sha256": "5d79f2161d4186d9bf56b32c2148d60e46d15e89921966e176ba5b69f4c0fb12"
+    }
+  ]
+}

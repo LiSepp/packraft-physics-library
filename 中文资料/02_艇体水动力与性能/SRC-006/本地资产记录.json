@@ -1,0 +1,152 @@
+{
+  "source_id": "SRC-006",
+  "title_zh": "充气皮艇开发的水动力性能评价方法",
+  "title_original": "Hydrodynamic Evaluation Method for Developing the Inflatable Kayak",
+  "doi": "10.5916/jkosme.2012.36.5.627",
+  "original_language": "ko",
+  "original_sha256": "84cce15e17d99b81a3ae9f692ada72077de8285eca24574ffd76a20c2eea6992",
+  "translation_sha256": "a299271569b3b9c2effafb031f809778ccbf3ccf8accb587df5a7b1c1e05493d",
+  "inventory_translation_sha256": "71ec2554dc42da9129e21d1457b176108cbc3d48b5d5e7e59c086ee6a9b047e7",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "02_艇体水动力与性能/Ki2012_Inflatable_Kayak_Evaluation_Method.pdf",
+    "translation": "中文翻译/02_艇体水动力与性能/SRC-006-02_艇体水动力与性能-充气皮艇开发的水动力性能评价方法.md"
+  },
+  "current_paths": {
+    "original": "中文资料/02_艇体水动力与性能/SRC-006/原始证据/Ki2012_Inflatable_Kayak_Evaluation_Method.pdf",
+    "translation": "中文资料/02_艇体水动力与性能/SRC-006/中文译文.md",
+    "asset_record": "中文资料/02_艇体水动力与性能/SRC-006/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "韩文正文，未从本文件找到明确开放许可；不能继承 Hah 2015 的许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/ki2012/fig01.png",
+      "new": "图片/ki2012/fig01.png",
+      "resource_sha256": "58a8961b220097702dac09a6b2ff9797d9704a3cf7b4ec546f54fd7d71b907bf"
+    },
+    {
+      "old": "assets/ki2012/fig02.png",
+      "new": "图片/ki2012/fig02.png",
+      "resource_sha256": "b4917eec22f98846f0232d568b97277124049717c4df4fffd33ea43c73e1d011"
+    },
+    {
+      "old": "assets/ki2012/fig03.png",
+      "new": "图片/ki2012/fig03.png",
+      "resource_sha256": "5f91f2e6cbf339e43001bdc5470a1ef0a73c93ffa3c1c81107d52d6623edb683"
+    },
+    {
+      "old": "assets/ki2012/fig04.png",
+      "new": "图片/ki2012/fig04.png",
+      "resource_sha256": "2efde13d14b47884ba8b27f94fd3fee05bd599cc2c6d540f9d6f31046c677f38"
+    },
+    {
+      "old": "assets/ki2012/fig05.png",
+      "new": "图片/ki2012/fig05.png",
+      "resource_sha256": "530a9a7bff26d0fb4674bdc9f94811dedca6fb32e875075fea009c80727ddc55"
+    },
+    {
+      "old": "assets/ki2012/fig06.png",
+      "new": "图片/ki2012/fig06.png",
+      "resource_sha256": "8ba76d15813486819542a1ee1cbe139de195c5f6553209d566add5fc3ee841b7"
+    },
+    {
+      "old": "assets/ki2012/fig07.png",
+      "new": "图片/ki2012/fig07.png",
+      "resource_sha256": "7cc58be4ab18ae4f5c68b3d2b6a39b3bb4f41f718a399d80c61088cd7559ff55"
+    },
+    {
+      "old": "assets/ki2012/fig08.png",
+      "new": "图片/ki2012/fig08.png",
+      "resource_sha256": "fd6e6744fefd624f513ade5e8478a51d4b9b888a84d9a7c5fd5f0fde2289069b"
+    },
+    {
+      "old": "assets/ki2012/fig09.png",
+      "new": "图片/ki2012/fig09.png",
+      "resource_sha256": "9d50c9cab1dbd8be40d6a910aa73b14d25a700aadd310532b123afd5cf3ad70c"
+    },
+    {
+      "old": "assets/ki2012/fig10.png",
+      "new": "图片/ki2012/fig10.png",
+      "resource_sha256": "793f7d02352d38a5268282370957ce4f3786d29366aa3ce29ad4203ec6bb268e"
+    },
+    {
+      "old": "assets/ki2012/fig11.png",
+      "new": "图片/ki2012/fig11.png",
+      "resource_sha256": "d608ac202c4712ed3f10ed8b0a130cd8be4a9f304ba13a31513ed742e5da2356"
+    },
+    {
+      "old": "assets/ki2012/fig12.png",
+      "new": "图片/ki2012/fig12.png",
+      "resource_sha256": "0c21839af8af9db9775a2e5e467f1c0203a662cdcb0c34709c2f32881fddcde2"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig01.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig01.png",
+      "sha256": "58a8961b220097702dac09a6b2ff9797d9704a3cf7b4ec546f54fd7d71b907bf"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig02.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig02.png",
+      "sha256": "b4917eec22f98846f0232d568b97277124049717c4df4fffd33ea43c73e1d011"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig03.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig03.png",
+      "sha256": "5f91f2e6cbf339e43001bdc5470a1ef0a73c93ffa3c1c81107d52d6623edb683"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig04.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig04.png",
+      "sha256": "2efde13d14b47884ba8b27f94fd3fee05bd599cc2c6d540f9d6f31046c677f38"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig05.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig05.png",
+      "sha256": "530a9a7bff26d0fb4674bdc9f94811dedca6fb32e875075fea009c80727ddc55"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig06.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig06.png",
+      "sha256": "8ba76d15813486819542a1ee1cbe139de195c5f6553209d566add5fc3ee841b7"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig07.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig07.png",
+      "sha256": "7cc58be4ab18ae4f5c68b3d2b6a39b3bb4f41f718a399d80c61088cd7559ff55"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig08.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig08.png",
+      "sha256": "fd6e6744fefd624f513ade5e8478a51d4b9b888a84d9a7c5fd5f0fde2289069b"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig09.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig09.png",
+      "sha256": "9d50c9cab1dbd8be40d6a910aa73b14d25a700aadd310532b123afd5cf3ad70c"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig10.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig10.png",
+      "sha256": "793f7d02352d38a5268282370957ce4f3786d29366aa3ce29ad4203ec6bb268e"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig11.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig11.png",
+      "sha256": "d608ac202c4712ed3f10ed8b0a130cd8be4a9f304ba13a31513ed742e5da2356"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/ki2012/fig12.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-006/图片/ki2012/fig12.png",
+      "sha256": "0c21839af8af9db9775a2e5e467f1c0203a662cdcb0c34709c2f32881fddcde2"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "source_id": "SRC-015",
+  "title_zh": "1983 年 Crystal Rapid 的水跃：对大峡谷行舟与地貌演化的启示",
+  "title_original": "The 1983 Hydraulic Jump in Crystal Rapid: Implications for River-Running and Geomorphic Evolution in the Grand Canyon",
+  "doi": null,
+  "original_language": "en",
+  "original_sha256": "83c20b0dd0992c917d769ee8dea110caa35968dbd21a0c12d7d789e057178217",
+  "translation_sha256": "b940d7b395d6a26c435ad561d2b2b9332987b264c25af5b6890bbaa81ac10aed",
+  "inventory_translation_sha256": "2b62f153a3799643416cd9838b12cd3fc46421c6c4d3eb5cb740d8573f40e40f",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "04_白水河流流体力学/The 1983 Hydraulic Jump in Crystal Rapid - Implications for River-Running and Geomorphic Evolution in the Grand Canyon.pdf",
+    "translation": "中文翻译/04_白水河流流体力学/SRC-015-04_白水河流流体力学-1983 年 Crystal Rapid 的水跃：对大峡谷行舟与地貌演化的启示.md"
+  },
+  "current_paths": {
+    "original": "中文资料/04_白水河流流体力学/SRC-015/原始证据/The 1983 Hydraulic Jump in Crystal Rapid - Implications for River-Running and Geomorphic Evolution in the Grand Canyon.pdf",
+    "translation": "中文资料/04_白水河流流体力学/SRC-015/中文译文.md",
+    "asset_record": "中文资料/04_白水河流流体力学/SRC-015/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "正文 p.2：No copyright is claimed；p.5 照片另列版权及转载许可，不能把整份含图 PDF／全译自动视为无版权。",
+    "redistribution_status": "分素材核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/kieffer1985/fig01.png",
+      "new": "图片/kieffer1985/fig01.png",
+      "resource_sha256": "b76d9a435e21c202320199ee3a7bfd06b2fb41e23dd90bfc53dc29c3d4fdff71"
+    },
+    {
+      "old": "assets/kieffer1985/fig02.png",
+      "new": "图片/kieffer1985/fig02.png",
+      "resource_sha256": "b2674fd09bc62b03a786cc4920ef9a5226bb2e4ab44280e2f014d1a492780527"
+    },
+    {
+      "old": "assets/kieffer1985/fig03.png",
+      "new": "图片/kieffer1985/fig03.png",
+      "resource_sha256": "60c46a884f7b151ab33b330c289539a190b7d94242c197eaed9b6e3a2b580133"
+    },
+    {
+      "old": "assets/kieffer1985/fig04.png",
+      "new": "图片/kieffer1985/fig04.png",
+      "resource_sha256": "eb4dd4d260ae489cc4367a8215d74195c3683e5835406fda322fd52e807b72cd"
+    },
+    {
+      "old": "assets/kieffer1985/fig05.png",
+      "new": "图片/kieffer1985/fig05.png",
+      "resource_sha256": "69d26acbe78730032b4f45c42e01b5f9ed15c4b3aaf5d1d2a3630f51ad81b932"
+    },
+    {
+      "old": "assets/kieffer1985/fig06.png",
+      "new": "图片/kieffer1985/fig06.png",
+      "resource_sha256": "34eb59091a3d1c61e74c073de14e69239ba6ce44ecb454fc0a70b441794b0bc7"
+    },
+    {
+      "old": "assets/kieffer1985/fig07.png",
+      "new": "图片/kieffer1985/fig07.png",
+      "resource_sha256": "4bc573b1f43c3a7d014b0969550bbf9782092acaecb69793ca3c526eff522e8c"
+    },
+    {
+      "old": "assets/kieffer1985/fig08.png",
+      "new": "图片/kieffer1985/fig08.png",
+      "resource_sha256": "e91ac1a4f960fdc414abcebdba3b80561022fb1a85de6a229f3a86b4d2750b74"
+    },
+    {
+      "old": "assets/kieffer1985/fig09.png",
+      "new": "图片/kieffer1985/fig09.png",
+      "resource_sha256": "e1a3c8577f0f83a9cb8a3901e9500aa7c1f3bb408ac580b2b00973eea62a6a16"
+    },
+    {
+      "old": "assets/kieffer1985/fig10.png",
+      "new": "图片/kieffer1985/fig10.png",
+      "resource_sha256": "d70e966a13ce09bdd35a8a588bc7bb311e3b79de6bf5c6cc100fff610b8d1bba"
+    },
+    {
+      "old": "assets/kieffer1985/fig11.png",
+      "new": "图片/kieffer1985/fig11.png",
+      "resource_sha256": "41c3a72ba2466d88589a58a4d61af39a80b0d8b6569578d604df8c6331b7117b"
+    },
+    {
+      "old": "assets/kieffer1985/fig12.png",
+      "new": "图片/kieffer1985/fig12.png",
+      "resource_sha256": "98467d3af087218b33e5b2c90e72027faa1b6d3351fcba1cb77e41214913d709"
+    },
+    {
+      "old": "assets/kieffer1985/fig13.png",
+      "new": "图片/kieffer1985/fig13.png",
+      "resource_sha256": "bfff46eb6ca2d3984436c51edfd8456c2bd22b547efbd953bc21f841d9fdd8ae"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig01.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig01.png",
+      "sha256": "b76d9a435e21c202320199ee3a7bfd06b2fb41e23dd90bfc53dc29c3d4fdff71"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig02.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig02.png",
+      "sha256": "b2674fd09bc62b03a786cc4920ef9a5226bb2e4ab44280e2f014d1a492780527"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig03.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig03.png",
+      "sha256": "60c46a884f7b151ab33b330c289539a190b7d94242c197eaed9b6e3a2b580133"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig04.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig04.png",
+      "sha256": "eb4dd4d260ae489cc4367a8215d74195c3683e5835406fda322fd52e807b72cd"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig05.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig05.png",
+      "sha256": "69d26acbe78730032b4f45c42e01b5f9ed15c4b3aaf5d1d2a3630f51ad81b932"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig06.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig06.png",
+      "sha256": "34eb59091a3d1c61e74c073de14e69239ba6ce44ecb454fc0a70b441794b0bc7"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig07.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig07.png",
+      "sha256": "4bc573b1f43c3a7d014b0969550bbf9782092acaecb69793ca3c526eff522e8c"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig08.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig08.png",
+      "sha256": "e91ac1a4f960fdc414abcebdba3b80561022fb1a85de6a229f3a86b4d2750b74"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig09.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig09.png",
+      "sha256": "e1a3c8577f0f83a9cb8a3901e9500aa7c1f3bb408ac580b2b00973eea62a6a16"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig10.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig10.png",
+      "sha256": "d70e966a13ce09bdd35a8a588bc7bb311e3b79de6bf5c6cc100fff610b8d1bba"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig11.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig11.png",
+      "sha256": "41c3a72ba2466d88589a58a4d61af39a80b0d8b6569578d604df8c6331b7117b"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig12.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig12.png",
+      "sha256": "98467d3af087218b33e5b2c90e72027faa1b6d3351fcba1cb77e41214913d709"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/kieffer1985/fig13.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig13.png",
+      "sha256": "bfff46eb6ca2d3984436c51edfd8456c2bd22b547efbd953bc21f841d9fdd8ae"
+    }
+  ]
+}

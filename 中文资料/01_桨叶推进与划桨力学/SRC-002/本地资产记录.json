@@ -1,0 +1,52 @@
+{
+  "source_id": "SRC-002",
+  "title_zh": "精英竞速皮艇运动中不同桨频下的划桨力曲线",
+  "title_original": "Paddling Force Profiles at Different Stroke Rates in Elite Sprint Kayaking",
+  "doi": "10.1123/jab.2014-0114",
+  "original_language": "en",
+  "original_sha256": "b2ac167bc40429a0c1c641b7557f994dad3120444ce2060e470ef3e511c2c4e4",
+  "translation_sha256": "76a42dba91c6746239d1e1afbfd0036adc02f7f67c2aae199d579d918d7c9d2b",
+  "inventory_translation_sha256": "835b5d447854cba83203d4fdebcadd5cbb15d2c2d7af69a27c8ae81235a728a7",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "01_桨叶推进与划桨力学/Gomes2015_Paddling_Force_Profiles.pdf",
+    "translation": "中文翻译/01_桨叶推进与划桨力学/SRC-002-01_桨叶推进与划桨力学-精英竞速皮艇运动中不同桨频下的划桨力曲线.md"
+  },
+  "current_paths": {
+    "original": "中文资料/01_桨叶推进与划桨力学/SRC-002/原始证据/Gomes2015_Paddling_Force_Profiles.pdf",
+    "translation": "中文资料/01_桨叶推进与划桨力学/SRC-002/中文译文.md",
+    "asset_record": "中文资料/01_桨叶推进与划桨力学/SRC-002/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "p.1：© 2015 Human Kinetics。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/gomes2015/figure1_force_time_curves.png",
+      "new": "图片/gomes2015/figure1_force_time_curves.png",
+      "resource_sha256": "b42056bc7c22a76a954ef44d713f6125b030f55084ae36df12a59597d37716da"
+    },
+    {
+      "old": "assets/gomes2015/figure2_phase_durations.png",
+      "new": "图片/gomes2015/figure2_phase_durations.png",
+      "resource_sha256": "670324824c5756a6171576da3ac0ee42bb0523f9a9c157b6e9128d7c8d78dc90"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/gomes2015/figure1_force_time_curves.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-002/图片/gomes2015/figure1_force_time_curves.png",
+      "sha256": "b42056bc7c22a76a954ef44d713f6125b030f55084ae36df12a59597d37716da"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/gomes2015/figure2_phase_durations.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-002/图片/gomes2015/figure2_phase_durations.png",
+      "sha256": "670324824c5756a6171576da3ac0ee42bb0523f9a9c157b6e9128d7c8d78dc90"
+    }
+  ]
+}

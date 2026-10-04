@@ -1,0 +1,62 @@
+{
+  "source_id": "SRC-004",
+  "title_zh": "奥运会皮艇的性能预测",
+  "title_original": "Performance prediction for Olympic kayaks",
+  "doi": "10.1080/02640419508732233",
+  "original_language": "en",
+  "original_sha256": "aa401496d9f2851ee8a8bf6eb3c447068e853bf10ef97e1fa9620cee88824ad6",
+  "translation_sha256": "29b43ca4309da13c522e29d6d5983017e8c62bcbebc4f7789e14d9a54cf16d77",
+  "inventory_translation_sha256": "bdffada0385941ca20c89e2be73a7a4e45c76d6839f0b40b34b0d0e94db0a496",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "02_艇体水动力与性能/Performance prediction for Olympic kayaks.pdf",
+    "translation": "中文翻译/02_艇体水动力与性能/SRC-004-02_艇体水动力与性能-奥运会皮艇的性能预测.md"
+  },
+  "current_paths": {
+    "original": "中文资料/02_艇体水动力与性能/SRC-004/原始证据/Performance prediction for Olympic kayaks.pdf",
+    "translation": "中文资料/02_艇体水动力与性能/SRC-004/中文译文.md",
+    "asset_record": "中文资料/02_艇体水动力与性能/SRC-004/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "下载封面载有再分发限制；有机构下载痕迹。",
+    "redistribution_status": "暂留本地（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/jackson1995/fig1_force_velocity.png",
+      "new": "图片/jackson1995/fig1_force_velocity.png",
+      "resource_sha256": "4d0bcb96d7c7a30452c652ca3d3dd7ba69741fbb70ec121147a49afe5755ae09"
+    },
+    {
+      "old": "assets/jackson1995/fig2_vortex_rings.png",
+      "new": "图片/jackson1995/fig2_vortex_rings.png",
+      "resource_sha256": "77659db5c9827c8bde8d6d30ce8672b638617cb7510ad07ea39c0845a919c6c7"
+    },
+    {
+      "old": "assets/jackson1995/fig3_blade_planforms.png",
+      "new": "图片/jackson1995/fig3_blade_planforms.png",
+      "resource_sha256": "d2d82d4d4d6040afa1447f0a03df6773afdfecaa53a0490af51376dd335ca9ff"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/jackson1995/fig1_force_velocity.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-004/图片/jackson1995/fig1_force_velocity.png",
+      "sha256": "4d0bcb96d7c7a30452c652ca3d3dd7ba69741fbb70ec121147a49afe5755ae09"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/jackson1995/fig2_vortex_rings.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-004/图片/jackson1995/fig2_vortex_rings.png",
+      "sha256": "77659db5c9827c8bde8d6d30ce8672b638617cb7510ad07ea39c0845a919c6c7"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/jackson1995/fig3_blade_planforms.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-004/图片/jackson1995/fig3_blade_planforms.png",
+      "sha256": "d2d82d4d4d6040afa1447f0a03df6773afdfecaa53a0490af51376dd335ca9ff"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "SRC-021",
+  "title_zh": "皮艇划桨表现的决定因素",
+  "title_original": "Determinants of kayak paddling performance",
+  "doi": "10.1080/14763140902745019",
+  "original_language": "en",
+  "original_sha256": "ff925bb6646cc3fdd2120709158c14a6fca442dd16065c1464c291b715e7e9e8",
+  "translation_sha256": "67b74de8c152910999c9d81db9d44fa4f1dfce768c421fe0ba5da0e252b19bde",
+  "inventory_translation_sha256": "2072d73d4d52d580f71b0f1f96d24ec6e9e0116acc43665dc69960396e8c18ed",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "05_人体生物力学与训练/Determinants of kayak paddling performance.pdf",
+    "translation": "中文翻译/05_人体生物力学与训练/SRC-021-05_人体生物力学与训练-皮艇划桨表现的决定因素.md"
+  },
+  "current_paths": {
+    "original": "中文资料/05_人体生物力学与训练/SRC-021/原始证据/Determinants of kayak paddling performance.pdf",
+    "translation": "中文资料/05_人体生物力学与训练/SRC-021/中文译文.md",
+    "asset_record": "中文资料/05_人体生物力学与训练/SRC-021/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "Taylor & Francis 出版方封面和访问条款，未检出开放许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/michael2009/fig01.png",
+      "new": "图片/michael2009/fig01.png",
+      "resource_sha256": "6e061b72af1fb463fa4415211cfcbb27c6e7e619bd571378965f9707349b3402"
+    },
+    {
+      "old": "assets/michael2009/fig02.png",
+      "new": "图片/michael2009/fig02.png",
+      "resource_sha256": "50521f54878883c7799e88847e7e4512605b0467f3393c9b3e9e562fc6d32065"
+    },
+    {
+      "old": "assets/michael2009/fig03.png",
+      "new": "图片/michael2009/fig03.png",
+      "resource_sha256": "de6b9e0c02ec3634082d22cadbb5fdb67938f3456e8b396b43d420fad9eb0122"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/05_人体生物力学与训练/assets/michael2009/fig01.png",
+      "current_path": "中文资料/05_人体生物力学与训练/SRC-021/图片/michael2009/fig01.png",
+      "sha256": "6e061b72af1fb463fa4415211cfcbb27c6e7e619bd571378965f9707349b3402"
+    },
+    {
+      "old_path": "中文翻译/05_人体生物力学与训练/assets/michael2009/fig02.png",
+      "current_path": "中文资料/05_人体生物力学与训练/SRC-021/图片/michael2009/fig02.png",
+      "sha256": "50521f54878883c7799e88847e7e4512605b0467f3393c9b3e9e562fc6d32065"
+    },
+    {
+      "old_path": "中文翻译/05_人体生物力学与训练/assets/michael2009/fig03.png",
+      "current_path": "中文资料/05_人体生物力学与训练/SRC-021/图片/michael2009/fig03.png",
+      "sha256": "de6b9e0c02ec3634082d22cadbb5fdb67938f3456e8b396b43d420fad9eb0122"
+    }
+  ]
+}

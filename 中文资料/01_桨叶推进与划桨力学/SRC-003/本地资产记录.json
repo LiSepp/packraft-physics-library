@@ -1,0 +1,182 @@
+{
+  "source_id": "SRC-003",
+  "title_zh": "皮艇桨叶—船体水动力相互作用：面向自航模拟的体力等效法",
+  "title_original": "Kayak blade–hull interactions: A body force approach for self-propelled simulations",
+  "doi": "10.1177/1754337113493847",
+  "original_language": "en",
+  "original_sha256": "15c7d04e503b2fdd271ce3e382137fecacd35c7606802ddec43bd7a157e2cf8b",
+  "translation_sha256": "f312ac50a28508fb4530cae7aebdabf885ed64218cf42b2ffaf1c76742101d66",
+  "inventory_translation_sha256": "6711a2c63cc3a914185bb56cfe87a1ce902f7ff98de2c2f3a0df38488ae46eb2",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "01_桨叶推进与划桨力学/Kayak blade–hull interactions - A body force approach for self-propelled simulations.pdf",
+    "translation": "中文翻译/01_桨叶推进与划桨力学/SRC-003-01_桨叶推进与划桨力学-皮艇桨叶—船体水动力相互作用：面向自航模拟的体力等效法.md"
+  },
+  "current_paths": {
+    "original": "中文资料/01_桨叶推进与划桨力学/SRC-003/原始证据/Kayak blade–hull interactions - A body force approach for self-propelled simulations.pdf",
+    "translation": "中文资料/01_桨叶推进与划桨力学/SRC-003/中文译文.md",
+    "asset_record": "中文资料/01_桨叶推进与划桨力学/SRC-003/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "p.1：IMechE 版权与 SAGE reprints/permissions 提示。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/banks2014/fig01_force_model.png",
+      "new": "图片/banks2014/fig01_force_model.png",
+      "resource_sha256": "b4769072456b23882eecf479c14f6f723aa80ed9d9c26eb65dd3fa6be00b3d16"
+    },
+    {
+      "old": "assets/banks2014/fig02_propulsive_domain.png",
+      "new": "图片/banks2014/fig02_propulsive_domain.png",
+      "resource_sha256": "b81605d38d80f88f35d0c0ff4c97bc13bd9f6c9c7c26894ea3589584b73cf125"
+    },
+    {
+      "old": "assets/banks2014/fig03_dynamic_experiment.png",
+      "new": "图片/banks2014/fig03_dynamic_experiment.png",
+      "resource_sha256": "d670aec184e628659b8d6ed70c647c4b7c8cb62fff0444bd9104252b532fd606"
+    },
+    {
+      "old": "assets/banks2014/fig04_experimental_data.png",
+      "new": "图片/banks2014/fig04_experimental_data.png",
+      "resource_sha256": "4d8912cd9f48f1ca6d140db43197a2a0cc375f2898b5213a909becc26d09af2c"
+    },
+    {
+      "old": "assets/banks2014/fig05_thrust_validation.png",
+      "new": "图片/banks2014/fig05_thrust_validation.png",
+      "resource_sha256": "b665de5df9713943ad41a76f0f27929c23d981022fd381d4c4b09e0c89215793"
+    },
+    {
+      "old": "assets/banks2014/fig06_mesh_structure.png",
+      "new": "图片/banks2014/fig06_mesh_structure.png",
+      "resource_sha256": "f714f75bd74ea67970fd13cb43371ff783e65dc70cf562f32856e6d1242534b1"
+    },
+    {
+      "old": "assets/banks2014/fig07_free_surface.png",
+      "new": "图片/banks2014/fig07_free_surface.png",
+      "resource_sha256": "2b87fc3be5709f044075ed0a6d35829393b42e9fcb315a9bc70fedec0deca71e"
+    },
+    {
+      "old": "assets/banks2014/fig08_swept_volume.png",
+      "new": "图片/banks2014/fig08_swept_volume.png",
+      "resource_sha256": "806c4ec149dbd19a0685367f4daa38275cacb3b99ac0a18fefc8e5c7226c64b6"
+    },
+    {
+      "old": "assets/banks2014/fig09_lateral_positions.png",
+      "new": "图片/banks2014/fig09_lateral_positions.png",
+      "resource_sha256": "49867adbf6f97a11bd69554c20d6394be23bd74aa6e39b48023a79f02aa7076e"
+    },
+    {
+      "old": "assets/banks2014/fig10_free_surface_selfprop.png",
+      "new": "图片/banks2014/fig10_free_surface_selfprop.png",
+      "resource_sha256": "e11aa71aa32c1e30cc07279faaf045a6bcd4f2d617a2975acd873bdad016b943"
+    },
+    {
+      "old": "assets/banks2014/fig11_velocity_change.png",
+      "new": "图片/banks2014/fig11_velocity_change.png",
+      "resource_sha256": "7b08fde5d5744c991e711ce2de10717295800408a5fbce4462b4fc8e5bc22fb9"
+    },
+    {
+      "old": "assets/banks2014/fig12_force_comparison.png",
+      "new": "图片/banks2014/fig12_force_comparison.png",
+      "resource_sha256": "7cc487742be8c4388b1c8579d25ebf7afe3f8c378d8183039e4ec61c41981902"
+    },
+    {
+      "old": "assets/banks2014/fig13_moments.png",
+      "new": "图片/banks2014/fig13_moments.png",
+      "resource_sha256": "c165c398f7153b64843d2032f4e01f96395953746e3ac435c915c712bb1e908e"
+    },
+    {
+      "old": "assets/banks2014/fig14_paddle_proximity.png",
+      "new": "图片/banks2014/fig14_paddle_proximity.png",
+      "resource_sha256": "729bfdce148cfb2d61d0907b5c1e2419807c13e136988eb4352e493edcce47f3"
+    },
+    {
+      "old": "assets/banks2014/fig15_heave_pitch.png",
+      "new": "图片/banks2014/fig15_heave_pitch.png",
+      "resource_sha256": "f8c684d7253cbe4305fea1a55452b4558b5e8b48ad7b1db8e1a7ad8e769d6562"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig01_force_model.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig01_force_model.png",
+      "sha256": "b4769072456b23882eecf479c14f6f723aa80ed9d9c26eb65dd3fa6be00b3d16"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig02_propulsive_domain.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig02_propulsive_domain.png",
+      "sha256": "b81605d38d80f88f35d0c0ff4c97bc13bd9f6c9c7c26894ea3589584b73cf125"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig03_dynamic_experiment.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig03_dynamic_experiment.png",
+      "sha256": "d670aec184e628659b8d6ed70c647c4b7c8cb62fff0444bd9104252b532fd606"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig04_experimental_data.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig04_experimental_data.png",
+      "sha256": "4d8912cd9f48f1ca6d140db43197a2a0cc375f2898b5213a909becc26d09af2c"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig05_thrust_validation.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig05_thrust_validation.png",
+      "sha256": "b665de5df9713943ad41a76f0f27929c23d981022fd381d4c4b09e0c89215793"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig06_mesh_structure.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig06_mesh_structure.png",
+      "sha256": "f714f75bd74ea67970fd13cb43371ff783e65dc70cf562f32856e6d1242534b1"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig07_free_surface.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig07_free_surface.png",
+      "sha256": "2b87fc3be5709f044075ed0a6d35829393b42e9fcb315a9bc70fedec0deca71e"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig08_swept_volume.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig08_swept_volume.png",
+      "sha256": "806c4ec149dbd19a0685367f4daa38275cacb3b99ac0a18fefc8e5c7226c64b6"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig09_lateral_positions.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig09_lateral_positions.png",
+      "sha256": "49867adbf6f97a11bd69554c20d6394be23bd74aa6e39b48023a79f02aa7076e"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig10_free_surface_selfprop.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig10_free_surface_selfprop.png",
+      "sha256": "e11aa71aa32c1e30cc07279faaf045a6bcd4f2d617a2975acd873bdad016b943"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig11_velocity_change.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig11_velocity_change.png",
+      "sha256": "7b08fde5d5744c991e711ce2de10717295800408a5fbce4462b4fc8e5bc22fb9"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig12_force_comparison.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig12_force_comparison.png",
+      "sha256": "7cc487742be8c4388b1c8579d25ebf7afe3f8c378d8183039e4ec61c41981902"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig13_moments.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig13_moments.png",
+      "sha256": "c165c398f7153b64843d2032f4e01f96395953746e3ac435c915c712bb1e908e"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig14_paddle_proximity.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig14_paddle_proximity.png",
+      "sha256": "729bfdce148cfb2d61d0907b5c1e2419807c13e136988eb4352e493edcce47f3"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/banks2014/fig15_heave_pitch.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-003/图片/banks2014/fig15_heave_pitch.png",
+      "sha256": "f8c684d7253cbe4305fea1a55452b4558b5e8b48ad7b1db8e1a7ad8e769d6562"
+    }
+  ]
+}

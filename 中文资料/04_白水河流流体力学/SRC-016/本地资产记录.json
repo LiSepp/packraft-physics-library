@@ -1,0 +1,212 @@
+{
+  "source_id": "SRC-016",
+  "title_zh": "水跃及相关现象的现有认识：实验结果综述",
+  "title_original": "Current knowledge in hydraulic jumps and related phenomena. A survey of experimental results",
+  "doi": "10.1016/j.euromechflu.2008.06.004",
+  "original_language": "en",
+  "original_sha256": "8569b879642a7700b5d252f41f21eb1c6589bb62744a9506e795864b340fbd40",
+  "translation_sha256": "f5a71b52b044a0dd831ad6f1517adbd549d85ad278f10c78045fdff3b6333fc4",
+  "inventory_translation_sha256": "7274d9b72246a183c05fe1b3d75821b1c71dd047f24f8b2beef0d300f8a3b0e8",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "04_白水河流流体力学/Current knowledge in hydraulic jumps and related phenomena. A survey of experimental results.pdf",
+    "translation": "中文翻译/04_白水河流流体力学/SRC-016-04_白水河流流体力学-水跃及相关现象的现有认识：实验结果综述.md"
+  },
+  "current_paths": {
+    "original": "中文资料/04_白水河流流体力学/SRC-016/原始证据/Current knowledge in hydraulic jumps and related phenomena. A survey of experimental results.pdf",
+    "translation": "中文资料/04_白水河流流体力学/SRC-016/中文译文.md",
+    "asset_record": "中文资料/04_白水河流流体力学/SRC-016/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "p.1：©2008 Elsevier Masson，All rights reserved。",
+    "redistribution_status": "暂留本地（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/chanson2009/fig01.png",
+      "new": "图片/chanson2009/fig01.png",
+      "resource_sha256": "04831d69272acade584fbd581d3bd5d52a7d32456d33a569c91ef350d9c40dba"
+    },
+    {
+      "old": "assets/chanson2009/fig02.png",
+      "new": "图片/chanson2009/fig02.png",
+      "resource_sha256": "233eb206e8c632f05b5fbbab608daeab0765252823240bdd44ea855ff7fa88a8"
+    },
+    {
+      "old": "assets/chanson2009/fig03.png",
+      "new": "图片/chanson2009/fig03.png",
+      "resource_sha256": "d09874cf2b1dad1eaf236c088ea4f04090263d0e930b89b3528bf5bb4f41dd1f"
+    },
+    {
+      "old": "assets/chanson2009/fig04.png",
+      "new": "图片/chanson2009/fig04.png",
+      "resource_sha256": "afaf455d4dbecd15119cbc2d4c2e997ccb2bd98fc9fa18db28ac567c17830227"
+    },
+    {
+      "old": "assets/chanson2009/fig05.png",
+      "new": "图片/chanson2009/fig05.png",
+      "resource_sha256": "a7039e8d3e95682c7847ed5b47c8f7bf17b852f5b647d8125d68d3337f867b06"
+    },
+    {
+      "old": "assets/chanson2009/fig06.png",
+      "new": "图片/chanson2009/fig06.png",
+      "resource_sha256": "9956f179da476337318e5aba075e5012f6817d145a144ad5426ac58ae7ff5cd9"
+    },
+    {
+      "old": "assets/chanson2009/fig07.png",
+      "new": "图片/chanson2009/fig07.png",
+      "resource_sha256": "387eb63e289848a8719ef1ea6313733538e34722f2631610c1f234f24b24a0a3"
+    },
+    {
+      "old": "assets/chanson2009/fig08.png",
+      "new": "图片/chanson2009/fig08.png",
+      "resource_sha256": "82729ba0864fb85819e07dec001b29cd3f6f1426f390b67248f89cbe7893bccb"
+    },
+    {
+      "old": "assets/chanson2009/fig09.png",
+      "new": "图片/chanson2009/fig09.png",
+      "resource_sha256": "5c899d4cf9e5d6c530dfd1fd6c850bca5f892a2633fb2f9efe321c666dd8fae7"
+    },
+    {
+      "old": "assets/chanson2009/fig10.png",
+      "new": "图片/chanson2009/fig10.png",
+      "resource_sha256": "1be1f8f7ef0efce3e12278efbdf41614c0cc0faacf04c2cf1b4bd5f5b4d2fff8"
+    },
+    {
+      "old": "assets/chanson2009/fig11.png",
+      "new": "图片/chanson2009/fig11.png",
+      "resource_sha256": "8f2bd343bcf3e86155317d9e68c1be17d41e1ae7c56761568e259672b8d2868d"
+    },
+    {
+      "old": "assets/chanson2009/fig12.png",
+      "new": "图片/chanson2009/fig12.png",
+      "resource_sha256": "cb2d77bd29562ddd71549d55cbc7fe8b77735051392abc3ca4dcaa3c24f77f7c"
+    },
+    {
+      "old": "assets/chanson2009/fig13.png",
+      "new": "图片/chanson2009/fig13.png",
+      "resource_sha256": "77ac1df5d19f9d8f190f759484a56c42a3deb4ebb755bdf11faec89de6727352"
+    },
+    {
+      "old": "assets/chanson2009/fig14.png",
+      "new": "图片/chanson2009/fig14.png",
+      "resource_sha256": "fa30739ba625976ae10fef7d51d6d1ad995aa00956c7c1207bfa0257cd026a8b"
+    },
+    {
+      "old": "assets/chanson2009/fig15.png",
+      "new": "图片/chanson2009/fig15.png",
+      "resource_sha256": "56f8fa09fd7efdeef664d9a6873569ec9564ad351bd274748e8566d18a3ebb09"
+    },
+    {
+      "old": "assets/chanson2009/fig16.png",
+      "new": "图片/chanson2009/fig16.png",
+      "resource_sha256": "8f62cc395c815991807735c4f0a02159c2b027b9c2cf36a203c62894364f0156"
+    },
+    {
+      "old": "assets/chanson2009/fig17.png",
+      "new": "图片/chanson2009/fig17.png",
+      "resource_sha256": "9de27475f23ae6b71cdf040ed2020e079439b63258e795fd47e6ea8a6a0de342"
+    },
+    {
+      "old": "assets/chanson2009/fig18.png",
+      "new": "图片/chanson2009/fig18.png",
+      "resource_sha256": "bbd222f6064748ef2a57e0a1e8a9c4b91196eddd7cbbb728b441fc8558091e8b"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig01.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig01.png",
+      "sha256": "04831d69272acade584fbd581d3bd5d52a7d32456d33a569c91ef350d9c40dba"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig02.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig02.png",
+      "sha256": "233eb206e8c632f05b5fbbab608daeab0765252823240bdd44ea855ff7fa88a8"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig03.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig03.png",
+      "sha256": "d09874cf2b1dad1eaf236c088ea4f04090263d0e930b89b3528bf5bb4f41dd1f"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig04.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig04.png",
+      "sha256": "afaf455d4dbecd15119cbc2d4c2e997ccb2bd98fc9fa18db28ac567c17830227"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig05.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig05.png",
+      "sha256": "a7039e8d3e95682c7847ed5b47c8f7bf17b852f5b647d8125d68d3337f867b06"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig06.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig06.png",
+      "sha256": "9956f179da476337318e5aba075e5012f6817d145a144ad5426ac58ae7ff5cd9"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig07.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig07.png",
+      "sha256": "387eb63e289848a8719ef1ea6313733538e34722f2631610c1f234f24b24a0a3"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig08.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig08.png",
+      "sha256": "82729ba0864fb85819e07dec001b29cd3f6f1426f390b67248f89cbe7893bccb"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig09.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig09.png",
+      "sha256": "5c899d4cf9e5d6c530dfd1fd6c850bca5f892a2633fb2f9efe321c666dd8fae7"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig10.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig10.png",
+      "sha256": "1be1f8f7ef0efce3e12278efbdf41614c0cc0faacf04c2cf1b4bd5f5b4d2fff8"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig11.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig11.png",
+      "sha256": "8f2bd343bcf3e86155317d9e68c1be17d41e1ae7c56761568e259672b8d2868d"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig12.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig12.png",
+      "sha256": "cb2d77bd29562ddd71549d55cbc7fe8b77735051392abc3ca4dcaa3c24f77f7c"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig13.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig13.png",
+      "sha256": "77ac1df5d19f9d8f190f759484a56c42a3deb4ebb755bdf11faec89de6727352"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig14.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig14.png",
+      "sha256": "fa30739ba625976ae10fef7d51d6d1ad995aa00956c7c1207bfa0257cd026a8b"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig15.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig15.png",
+      "sha256": "56f8fa09fd7efdeef664d9a6873569ec9564ad351bd274748e8566d18a3ebb09"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig16.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig16.png",
+      "sha256": "8f62cc395c815991807735c4f0a02159c2b027b9c2cf36a203c62894364f0156"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig17.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig17.png",
+      "sha256": "9de27475f23ae6b71cdf040ed2020e079439b63258e795fd47e6ea8a6a0de342"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/chanson2009/fig18.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-016/图片/chanson2009/fig18.png",
+      "sha256": "bbd222f6064748ef2a57e0a1e8a9c4b91196eddd7cbbb728b441fc8558091e8b"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "source_id": "SRC-012",
+  "title_zh": "力学、生理学与技术参数同皮划艇激流回旋表现之间的关联：一项系统综述",
+  "title_original": "Association Between Mechanical, Physiological, and Technical Parameters With Canoe Slalom Performance: A Systematic Review",
+  "doi": "10.3389/fphys.2021.734806",
+  "original_language": "en",
+  "original_sha256": "a7021d8411558cba3684b3aff7184ce3e176fa7c502617a5c95864ac9ec8db8e",
+  "translation_sha256": "b15670d6e9ed863e5f62973ab372bce5a81a7e21c1214a47d51ac12c25ce2a14",
+  "inventory_translation_sha256": "9293279cb5197920d3576031bf367fe055ee9de4a7fed7febfa946d31e6afeb0",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "03_激流回旋与控船/Messias2021_Canoe_Slalom_Performance_Review.pdf",
+    "translation": "中文翻译/03_激流回旋与控船/SRC-012-03_激流回旋与控船-力学、生理学与技术参数同皮划艇激流回旋表现之间的关联：一项系统综述.md"
+  },
+  "current_paths": {
+    "original": "中文资料/03_激流回旋与控船/SRC-012/原始证据/Messias2021_Canoe_Slalom_Performance_Review.pdf",
+    "translation": "中文资料/03_激流回旋与控船/SRC-012/中文译文.md",
+    "asset_record": "中文资料/03_激流回旋与控船/SRC-012/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "CC BY",
+    "version": null,
+    "evidence": "p.10：CC BY；许可版本待出版页核对，先保留本地版权声明。",
+    "redistribution_status": "有条件可公开（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/messias2021/fig1_prisma_flow.png",
+      "new": "图片/messias2021/fig1_prisma_flow.png",
+      "resource_sha256": "78043b1f67ddc2309af530e5532af6bd11fec59d0b41a6221e8d61caef7deddf"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/messias2021/fig1_prisma_flow.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-012/图片/messias2021/fig1_prisma_flow.png",
+      "sha256": "78043b1f67ddc2309af530e5532af6bd11fec59d0b41a6221e8d61caef7deddf"
+    }
+  ]
+}

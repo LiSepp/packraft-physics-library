@@ -1,0 +1,222 @@
+{
+  "source_id": "SRC-017",
+  "title_zh": "河床台阶处能量耗散和水跃流态对河道非均匀性的响应建模",
+  "title_original": "Modeling energy dissipation and hydraulic jump regime responses to channel nonuniformity at river steps",
+  "doi": "10.1029/2007JF000873",
+  "original_language": "en",
+  "original_sha256": "b8b9f3845525ac3a284e41214f0e88189534337d30227c581769d71e5e4bce9c",
+  "translation_sha256": "51c1d8de62a12af1b19f5ad7b778344aa0072d4bc562e1b058fa2a2df2b1c4a6",
+  "inventory_translation_sha256": "548be15598c34f7367585e1e0017edea9c0fed435e444fc004f3cea33661067d",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "04_白水河流流体力学/Modeling energy dissipation and hydraulic jump regime responses to channel nonuniformity at river steps.pdf",
+    "translation": "中文翻译/04_白水河流流体力学/SRC-017-04_白水河流流体力学-河床台阶处能量耗散和水跃流态对河道非均匀性的响应建模.md"
+  },
+  "current_paths": {
+    "original": "中文资料/04_白水河流流体力学/SRC-017/原始证据/Modeling energy dissipation and hydraulic jump regime responses to channel nonuniformity at river steps.pdf",
+    "translation": "中文资料/04_白水河流流体力学/SRC-017/中文译文.md",
+    "asset_record": "中文资料/04_白水河流流体力学/SRC-017/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "p.1：Copyright 2008 AGU，未检出开放许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/wyrick2008/fig01.png",
+      "new": "图片/wyrick2008/fig01.png",
+      "resource_sha256": "be07233f967117d57254be161963f9ab9aa1266d19dbc5c61dd0bfbb38cb9f35"
+    },
+    {
+      "old": "assets/wyrick2008/fig02.png",
+      "new": "图片/wyrick2008/fig02.png",
+      "resource_sha256": "60dec6bf95afa50a6b0b7a150320cf7c124aa28ae225f387c2f30f19e72715fe"
+    },
+    {
+      "old": "assets/wyrick2008/fig03.png",
+      "new": "图片/wyrick2008/fig03.png",
+      "resource_sha256": "30d5c30f80431c0c588bd755e19d29577111f0ad0d3493d67c070581b51b6a5e"
+    },
+    {
+      "old": "assets/wyrick2008/fig04.png",
+      "new": "图片/wyrick2008/fig04.png",
+      "resource_sha256": "dc9c7ad02a3d8d41f4a36560cffa2900a6a04b9adec0a48672eb228bc87e7aad"
+    },
+    {
+      "old": "assets/wyrick2008/fig05.png",
+      "new": "图片/wyrick2008/fig05.png",
+      "resource_sha256": "15657fb70603b5f3f69ce55a47d95eb71eb8ee95efe854ec4888fd92ae9c7012"
+    },
+    {
+      "old": "assets/wyrick2008/fig06.png",
+      "new": "图片/wyrick2008/fig06.png",
+      "resource_sha256": "c4516c0ebd9ffa2919059027302e9e4940b7e441029b541091318a10ddde285a"
+    },
+    {
+      "old": "assets/wyrick2008/fig07.png",
+      "new": "图片/wyrick2008/fig07.png",
+      "resource_sha256": "876e666810a1d9194b4b8bf802d5bc35f233fc3e021df372eb234a0310879491"
+    },
+    {
+      "old": "assets/wyrick2008/fig08.png",
+      "new": "图片/wyrick2008/fig08.png",
+      "resource_sha256": "be012801fe96837fcaa52d5128760820686068ecd66fc1b1c858b61bcecb29c6"
+    },
+    {
+      "old": "assets/wyrick2008/fig09.png",
+      "new": "图片/wyrick2008/fig09.png",
+      "resource_sha256": "7fd1a4cb9afda960058a4353f07c2048695bcf7187c1f6f5017bdbf45795e37e"
+    },
+    {
+      "old": "assets/wyrick2008/fig10.png",
+      "new": "图片/wyrick2008/fig10.png",
+      "resource_sha256": "1df28538892ad9710c7f18ab0875013f4fead38550f2dc50f58e112c9ff3ffa7"
+    },
+    {
+      "old": "assets/wyrick2008/fig11.png",
+      "new": "图片/wyrick2008/fig11.png",
+      "resource_sha256": "d32a3beff2af2b46a9be8d81fb5207a5f1bfd1f3bbf27384942402632a841414"
+    },
+    {
+      "old": "assets/wyrick2008/fig12.png",
+      "new": "图片/wyrick2008/fig12.png",
+      "resource_sha256": "8e3add8b3e28435c271b901cc5cf8a0ba009e9c8025781ea7104ba12045c91d0"
+    },
+    {
+      "old": "assets/wyrick2008/fig13.png",
+      "new": "图片/wyrick2008/fig13.png",
+      "resource_sha256": "dd623098567c23b7acdbe9a062ba506fb5d3a31ce850e6e3401756d9985fc4a2"
+    },
+    {
+      "old": "assets/wyrick2008/fig14.png",
+      "new": "图片/wyrick2008/fig14.png",
+      "resource_sha256": "1ffcb209bbc77e13d3fa7103e3c644de78314c075b458f29e2b144381318d1cd"
+    },
+    {
+      "old": "assets/wyrick2008/fig15.png",
+      "new": "图片/wyrick2008/fig15.png",
+      "resource_sha256": "c0e9d49c97046218d0768968215e5773e62da7fe3e259a4e5a1054ad92e30f7e"
+    },
+    {
+      "old": "assets/wyrick2008/fig16.png",
+      "new": "图片/wyrick2008/fig16.png",
+      "resource_sha256": "389264bd9cc21f89cbcad878b84b3d94d0191ed0ca9489df863b4c20d22ab26a"
+    },
+    {
+      "old": "assets/wyrick2008/fig17.png",
+      "new": "图片/wyrick2008/fig17.png",
+      "resource_sha256": "fca75cd426c7df147c0598f1bff4a2f6929b9f7960eaf53eced292ac84004df5"
+    },
+    {
+      "old": "assets/wyrick2008/fig18.png",
+      "new": "图片/wyrick2008/fig18.png",
+      "resource_sha256": "2eed241d90117e0c6255d5fb66a028cb569bb4681865faaf3e5b14c1a0280b86"
+    },
+    {
+      "old": "assets/wyrick2008/fig19.png",
+      "new": "图片/wyrick2008/fig19.png",
+      "resource_sha256": "6631865d7e584d963308e3e0b346c3ffc06f950ecaf0f440e27868d0386380ed"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig01.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig01.png",
+      "sha256": "be07233f967117d57254be161963f9ab9aa1266d19dbc5c61dd0bfbb38cb9f35"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig02.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig02.png",
+      "sha256": "60dec6bf95afa50a6b0b7a150320cf7c124aa28ae225f387c2f30f19e72715fe"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig03.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig03.png",
+      "sha256": "30d5c30f80431c0c588bd755e19d29577111f0ad0d3493d67c070581b51b6a5e"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig04.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig04.png",
+      "sha256": "dc9c7ad02a3d8d41f4a36560cffa2900a6a04b9adec0a48672eb228bc87e7aad"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig05.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig05.png",
+      "sha256": "15657fb70603b5f3f69ce55a47d95eb71eb8ee95efe854ec4888fd92ae9c7012"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig06.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig06.png",
+      "sha256": "c4516c0ebd9ffa2919059027302e9e4940b7e441029b541091318a10ddde285a"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig07.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig07.png",
+      "sha256": "876e666810a1d9194b4b8bf802d5bc35f233fc3e021df372eb234a0310879491"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig08.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig08.png",
+      "sha256": "be012801fe96837fcaa52d5128760820686068ecd66fc1b1c858b61bcecb29c6"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig09.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig09.png",
+      "sha256": "7fd1a4cb9afda960058a4353f07c2048695bcf7187c1f6f5017bdbf45795e37e"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig10.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig10.png",
+      "sha256": "1df28538892ad9710c7f18ab0875013f4fead38550f2dc50f58e112c9ff3ffa7"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig11.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig11.png",
+      "sha256": "d32a3beff2af2b46a9be8d81fb5207a5f1bfd1f3bbf27384942402632a841414"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig12.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig12.png",
+      "sha256": "8e3add8b3e28435c271b901cc5cf8a0ba009e9c8025781ea7104ba12045c91d0"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig13.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig13.png",
+      "sha256": "dd623098567c23b7acdbe9a062ba506fb5d3a31ce850e6e3401756d9985fc4a2"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig14.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig14.png",
+      "sha256": "1ffcb209bbc77e13d3fa7103e3c644de78314c075b458f29e2b144381318d1cd"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig15.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig15.png",
+      "sha256": "c0e9d49c97046218d0768968215e5773e62da7fe3e259a4e5a1054ad92e30f7e"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig16.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig16.png",
+      "sha256": "389264bd9cc21f89cbcad878b84b3d94d0191ed0ca9489df863b4c20d22ab26a"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig17.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig17.png",
+      "sha256": "fca75cd426c7df147c0598f1bff4a2f6929b9f7960eaf53eced292ac84004df5"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig18.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig18.png",
+      "sha256": "2eed241d90117e0c6255d5fb66a028cb569bb4681865faaf3e5b14c1a0280b86"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/wyrick2008/fig19.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-017/图片/wyrick2008/fig19.png",
+      "sha256": "6631865d7e584d963308e3e0b346c3ffc06f950ecaf0f440e27868d0386380ed"
+    }
+  ]
+}

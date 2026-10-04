@@ -1,0 +1,242 @@
+{
+  "source_id": "SRC-024",
+  "title_zh": "自由水面流动中充气艇运动的 CFD 模拟",
+  "title_original": "Simulation of Inflatable Boat Motion with CFD on Free Surface Flows",
+  "doi": null,
+  "original_language": "en",
+  "original_sha256": "d09084f0c2365c48501589a6e924a448d71d42d56e8deca2acce0d11e5a7e63c",
+  "translation_sha256": "26d44987384e3d44c73a767a464c0241267667f8bb2aa42b149e4f5bffb72e04",
+  "inventory_translation_sha256": "a1b254c1055c87b461d05150b30c667e688a9475ea180ad33cc180cd94dcfff2",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "90_低优先级或参考/Simulation of Inflatable Boat Motion with CFD on Free Surface Flows.pdf",
+    "translation": "中文翻译/90_低优先级或参考/SRC-024-90_低优先级或参考-自由水面流动中充气艇运动的 CFD 模拟.md"
+  },
+  "current_paths": {
+    "original": "中文资料/90_低优先级或参考/SRC-024/原始证据/Simulation of Inflatable Boat Motion with CFD on Free Surface Flows.pdf",
+    "translation": "中文资料/90_低优先级或参考/SRC-024/中文译文.md",
+    "asset_record": "中文资料/90_低优先级或参考/SRC-024/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "带模板提示的会议稿，未检出明确出版许可，年份／版本信息也待核对。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/aksoy2023/fig01.png",
+      "new": "图片/aksoy2023/fig01.png",
+      "resource_sha256": "885ff837890fd76bd481405bd6a5a4e812ce864dcc24e4eef12ed83fdd7e706e"
+    },
+    {
+      "old": "assets/aksoy2023/fig02.png",
+      "new": "图片/aksoy2023/fig02.png",
+      "resource_sha256": "fc9e89046443d5417d3b07b5111fb396ed1851027cfd880381784b447ea1b567"
+    },
+    {
+      "old": "assets/aksoy2023/equation03_原式.png",
+      "new": "图片/aksoy2023/equation03_原式.png",
+      "resource_sha256": "53b21f4e76a8d34262b77f8873eb152addd6ac529fc7f14f604273a07024e560"
+    },
+    {
+      "old": "assets/aksoy2023/fig03.png",
+      "new": "图片/aksoy2023/fig03.png",
+      "resource_sha256": "8b83fa22c5b34a7eedeb4789988b043a4b125a0f1b2132425a878cc26e8a633a"
+    },
+    {
+      "old": "assets/aksoy2023/fig04.png",
+      "new": "图片/aksoy2023/fig04.png",
+      "resource_sha256": "097f60057cd7a64e9c8936b98db51f0c8f398b41873694212a4304983746f503"
+    },
+    {
+      "old": "assets/aksoy2023/fig05.png",
+      "new": "图片/aksoy2023/fig05.png",
+      "resource_sha256": "4bd0865d26662bcc372b5c58eb197ba7e90683e19a22d4725d4bd15096f4c0ae"
+    },
+    {
+      "old": "assets/aksoy2023/fig06.png",
+      "new": "图片/aksoy2023/fig06.png",
+      "resource_sha256": "910e30ad07786ca10e1fd910e1b3afdfdb3b37c114d1dd933b061ff6c788b771"
+    },
+    {
+      "old": "assets/aksoy2023/fig07.png",
+      "new": "图片/aksoy2023/fig07.png",
+      "resource_sha256": "33cc5482e1412738a810aaca3cc1e850b76c987c83f3b1fd746eb5f7f54e20c4"
+    },
+    {
+      "old": "assets/aksoy2023/fig08.png",
+      "new": "图片/aksoy2023/fig08.png",
+      "resource_sha256": "3f92aea9470af352252fa642ba5b39cc0c65d2370fd4f40790b1e29f45b477b4"
+    },
+    {
+      "old": "assets/aksoy2023/fig09.png",
+      "new": "图片/aksoy2023/fig09.png",
+      "resource_sha256": "316848f72176756e6a492fc66235693b7f72310b08f73e27aebbd8664286d994"
+    },
+    {
+      "old": "assets/aksoy2023/fig10.png",
+      "new": "图片/aksoy2023/fig10.png",
+      "resource_sha256": "1cc0620fb352bfd39c0aeb6256ed2fdbd612acbceeb221b842f65c1ad20fe512"
+    },
+    {
+      "old": "assets/aksoy2023/fig11.png",
+      "new": "图片/aksoy2023/fig11.png",
+      "resource_sha256": "d54d194c61cf4f384dd4899172993e6635d7a381513f45840097c635b518b416"
+    },
+    {
+      "old": "assets/aksoy2023/fig12.png",
+      "new": "图片/aksoy2023/fig12.png",
+      "resource_sha256": "e5e4a43b91b8dc733f02debecfa046639d7224f3d5a1669b76eff89af9c373eb"
+    },
+    {
+      "old": "assets/aksoy2023/fig13.png",
+      "new": "图片/aksoy2023/fig13.png",
+      "resource_sha256": "581ee7418e63161d2a7963017ec9dad479e0bb7b388d2944b5e228a04d324cae"
+    },
+    {
+      "old": "assets/aksoy2023/fig14.png",
+      "new": "图片/aksoy2023/fig14.png",
+      "resource_sha256": "3825ef4a364b9f95b4d87dd19988fbbfe020430d0707778442b41ebad3afc1fd"
+    },
+    {
+      "old": "assets/aksoy2023/fig15.png",
+      "new": "图片/aksoy2023/fig15.png",
+      "resource_sha256": "f13ef3e141475eb6f7d654ccc57a4e0dfd45dfcdfa529cdbe6f0b35a3003fb6d"
+    },
+    {
+      "old": "assets/aksoy2023/fig16.png",
+      "new": "图片/aksoy2023/fig16.png",
+      "resource_sha256": "1611f92f2ec6cae077cc68c0dbdfbaa6a51e0cccdbac8684fd8885a44eb19d97"
+    },
+    {
+      "old": "assets/aksoy2023/fig17.png",
+      "new": "图片/aksoy2023/fig17.png",
+      "resource_sha256": "c5dc4f9844ab646c20f45478b282aaa356af9fcac4a7e582eb1738fbf8964d3d"
+    },
+    {
+      "old": "assets/aksoy2023/fig18.png",
+      "new": "图片/aksoy2023/fig18.png",
+      "resource_sha256": "9386a4a50de3a0166f903b941a52ee2027fe870ecc2d38af585a606cbee5742c"
+    },
+    {
+      "old": "assets/aksoy2023/fig19.png",
+      "new": "图片/aksoy2023/fig19.png",
+      "resource_sha256": "d0ca458eae7aac84bbfd6977f186e8bea4147d850c04b52674bc2448b522b47c"
+    },
+    {
+      "old": "assets/aksoy2023/fig20.png",
+      "new": "图片/aksoy2023/fig20.png",
+      "resource_sha256": "8f0f273c98b976db235ae0810bb3ce3cc69bca959a9bb8bb94d05fa425c353d9"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig01.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig01.png",
+      "sha256": "885ff837890fd76bd481405bd6a5a4e812ce864dcc24e4eef12ed83fdd7e706e"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig02.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig02.png",
+      "sha256": "fc9e89046443d5417d3b07b5111fb396ed1851027cfd880381784b447ea1b567"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/equation03_原式.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/equation03_原式.png",
+      "sha256": "53b21f4e76a8d34262b77f8873eb152addd6ac529fc7f14f604273a07024e560"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig03.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig03.png",
+      "sha256": "8b83fa22c5b34a7eedeb4789988b043a4b125a0f1b2132425a878cc26e8a633a"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig04.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig04.png",
+      "sha256": "097f60057cd7a64e9c8936b98db51f0c8f398b41873694212a4304983746f503"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig05.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig05.png",
+      "sha256": "4bd0865d26662bcc372b5c58eb197ba7e90683e19a22d4725d4bd15096f4c0ae"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig06.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig06.png",
+      "sha256": "910e30ad07786ca10e1fd910e1b3afdfdb3b37c114d1dd933b061ff6c788b771"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig07.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig07.png",
+      "sha256": "33cc5482e1412738a810aaca3cc1e850b76c987c83f3b1fd746eb5f7f54e20c4"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig08.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig08.png",
+      "sha256": "3f92aea9470af352252fa642ba5b39cc0c65d2370fd4f40790b1e29f45b477b4"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig09.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig09.png",
+      "sha256": "316848f72176756e6a492fc66235693b7f72310b08f73e27aebbd8664286d994"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig10.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig10.png",
+      "sha256": "1cc0620fb352bfd39c0aeb6256ed2fdbd612acbceeb221b842f65c1ad20fe512"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig11.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig11.png",
+      "sha256": "d54d194c61cf4f384dd4899172993e6635d7a381513f45840097c635b518b416"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig12.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig12.png",
+      "sha256": "e5e4a43b91b8dc733f02debecfa046639d7224f3d5a1669b76eff89af9c373eb"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig13.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig13.png",
+      "sha256": "581ee7418e63161d2a7963017ec9dad479e0bb7b388d2944b5e228a04d324cae"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig14.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig14.png",
+      "sha256": "3825ef4a364b9f95b4d87dd19988fbbfe020430d0707778442b41ebad3afc1fd"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig15.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig15.png",
+      "sha256": "f13ef3e141475eb6f7d654ccc57a4e0dfd45dfcdfa529cdbe6f0b35a3003fb6d"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig16.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig16.png",
+      "sha256": "1611f92f2ec6cae077cc68c0dbdfbaa6a51e0cccdbac8684fd8885a44eb19d97"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig17.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig17.png",
+      "sha256": "c5dc4f9844ab646c20f45478b282aaa356af9fcac4a7e582eb1738fbf8964d3d"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig18.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig18.png",
+      "sha256": "9386a4a50de3a0166f903b941a52ee2027fe870ecc2d38af585a606cbee5742c"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig19.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig19.png",
+      "sha256": "d0ca458eae7aac84bbfd6977f186e8bea4147d850c04b52674bc2448b522b47c"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/aksoy2023/fig20.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-024/图片/aksoy2023/fig20.png",
+      "sha256": "8f0f273c98b976db235ae0810bb3ce3cc69bca959a9bb8bb94d05fa425c353d9"
+    }
+  ]
+}

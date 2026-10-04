@@ -1,0 +1,172 @@
+{
+  "source_id": "SRC-019",
+  "title_zh": "淹没石块群中石块密集度对明渠紊流与泥沙输运的影响",
+  "title_original": "Influence of boulder concentration on turbulence and sediment transport in open-channel flow over submerged boulders",
+  "doi": "10.1002/2017JF004221",
+  "original_language": "en",
+  "original_sha256": "41948a2a807722fdd64021fbd738914b21ccaedeab011c43be5d8d35b2126542",
+  "translation_sha256": "04f730c5207b33dea98642983cbb11f5ea0cbe018549f418aa1aa0210ab1f94e",
+  "inventory_translation_sha256": "fd4d94bb35b1540dcf089e04a1939044413dd81d32c983d15885ddafcb3057f0",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "04_白水河流流体力学/Influence of Boulder Concentration on Turbulence and Sediment Transport in Open-Channel Flow Over Submerged Boulders.pdf",
+    "translation": "中文翻译/04_白水河流流体力学/SRC-019-04_白水河流流体力学-淹没石块群中石块密集度对明渠紊流与泥沙输运的影响.md"
+  },
+  "current_paths": {
+    "original": "中文资料/04_白水河流流体力学/SRC-019/原始证据/Influence of Boulder Concentration on Turbulence and Sediment Transport in Open-Channel Flow Over Submerged Boulders.pdf",
+    "translation": "中文资料/04_白水河流流体力学/SRC-019/中文译文.md",
+    "asset_record": "中文资料/04_白水河流流体力学/SRC-019/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "录用稿仍标 ©2017 AGU，All rights reserved；作者稿身份不自动解决权限。",
+    "redistribution_status": "暂留本地（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/fang2017/fig01.png",
+      "new": "图片/fang2017/fig01.png",
+      "resource_sha256": "f1ce14b8d5de298642d792d5c54e8e6809ea4c5388ec4a9105ff97de356b538c"
+    },
+    {
+      "old": "assets/fang2017/fig02.png",
+      "new": "图片/fang2017/fig02.png",
+      "resource_sha256": "39c19e1bba27f3c6ed188a04353165bba7d30d47c30e7d329c9449b308838563"
+    },
+    {
+      "old": "assets/fang2017/fig03.png",
+      "new": "图片/fang2017/fig03.png",
+      "resource_sha256": "aae6a4e79bbb3905885a2f56821d15ecd71957efb0f0d1984c46152fc80d34a2"
+    },
+    {
+      "old": "assets/fang2017/fig04.png",
+      "new": "图片/fang2017/fig04.png",
+      "resource_sha256": "d01d798f05799612ad1215255169072071781ff50a3dc5f63da2eefa9612281b"
+    },
+    {
+      "old": "assets/fang2017/fig05.png",
+      "new": "图片/fang2017/fig05.png",
+      "resource_sha256": "d02c3e2f3b542cb8820c6c6616a55eacc8366cf4604225b95ae1cbf14ccc9411"
+    },
+    {
+      "old": "assets/fang2017/fig06.png",
+      "new": "图片/fang2017/fig06.png",
+      "resource_sha256": "32bd025b39dc58479513e30f5b107f9223c3368c6c3a4fbb574af98a87be788d"
+    },
+    {
+      "old": "assets/fang2017/fig07.png",
+      "new": "图片/fang2017/fig07.png",
+      "resource_sha256": "32fd569dcf56706c032034440f898db9d8d51caecb468b6242d63765ff2a532c"
+    },
+    {
+      "old": "assets/fang2017/fig08.png",
+      "new": "图片/fang2017/fig08.png",
+      "resource_sha256": "b5314ca73af3e520f1f88de7b0caf28ee442750e1a8d54566ad13fc2edb54c16"
+    },
+    {
+      "old": "assets/fang2017/fig09.png",
+      "new": "图片/fang2017/fig09.png",
+      "resource_sha256": "cce5c230c565cbc5dedfc85fb9af6c0daf1ceb659140e8ed7e089232766a3577"
+    },
+    {
+      "old": "assets/fang2017/fig10.png",
+      "new": "图片/fang2017/fig10.png",
+      "resource_sha256": "38c9934aedeb2d61919cb1df666b03ffb0e62cbd84481310b683f37cd2a8c985"
+    },
+    {
+      "old": "assets/fang2017/fig11.png",
+      "new": "图片/fang2017/fig11.png",
+      "resource_sha256": "0c1e1395c5720dde3a50b00b6efabfbe75e3b6a5f89ced685b002c66fa04d52c"
+    },
+    {
+      "old": "assets/fang2017/fig12.png",
+      "new": "图片/fang2017/fig12.png",
+      "resource_sha256": "916fba4c94a6a658043667db9b04df346d8dc3b1ef31c0ab9f66908821ed8dfd"
+    },
+    {
+      "old": "assets/fang2017/fig13.png",
+      "new": "图片/fang2017/fig13.png",
+      "resource_sha256": "23013293d7a8660645c9bd07c0b9ac54ae58d6ae74b16ce48d8d0095b2dd992d"
+    },
+    {
+      "old": "assets/fang2017/fig14.png",
+      "new": "图片/fang2017/fig14.png",
+      "resource_sha256": "27d5d35b93f1e8f91c519e3ffa1881684f04e5890e9aba52bcdfd29393897dec"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig01.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig01.png",
+      "sha256": "f1ce14b8d5de298642d792d5c54e8e6809ea4c5388ec4a9105ff97de356b538c"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig02.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig02.png",
+      "sha256": "39c19e1bba27f3c6ed188a04353165bba7d30d47c30e7d329c9449b308838563"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig03.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig03.png",
+      "sha256": "aae6a4e79bbb3905885a2f56821d15ecd71957efb0f0d1984c46152fc80d34a2"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig04.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig04.png",
+      "sha256": "d01d798f05799612ad1215255169072071781ff50a3dc5f63da2eefa9612281b"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig05.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig05.png",
+      "sha256": "d02c3e2f3b542cb8820c6c6616a55eacc8366cf4604225b95ae1cbf14ccc9411"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig06.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig06.png",
+      "sha256": "32bd025b39dc58479513e30f5b107f9223c3368c6c3a4fbb574af98a87be788d"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig07.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig07.png",
+      "sha256": "32fd569dcf56706c032034440f898db9d8d51caecb468b6242d63765ff2a532c"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig08.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig08.png",
+      "sha256": "b5314ca73af3e520f1f88de7b0caf28ee442750e1a8d54566ad13fc2edb54c16"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig09.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig09.png",
+      "sha256": "cce5c230c565cbc5dedfc85fb9af6c0daf1ceb659140e8ed7e089232766a3577"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig10.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig10.png",
+      "sha256": "38c9934aedeb2d61919cb1df666b03ffb0e62cbd84481310b683f37cd2a8c985"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig11.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig11.png",
+      "sha256": "0c1e1395c5720dde3a50b00b6efabfbe75e3b6a5f89ced685b002c66fa04d52c"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig12.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig12.png",
+      "sha256": "916fba4c94a6a658043667db9b04df346d8dc3b1ef31c0ab9f66908821ed8dfd"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig13.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig13.png",
+      "sha256": "23013293d7a8660645c9bd07c0b9ac54ae58d6ae74b16ce48d8d0095b2dd992d"
+    },
+    {
+      "old_path": "中文翻译/04_白水河流流体力学/assets/fang2017/fig14.png",
+      "current_path": "中文资料/04_白水河流流体力学/SRC-019/图片/fang2017/fig14.png",
+      "sha256": "27d5d35b93f1e8f91c519e3ffa1881684f04e5890e9aba52bcdfd29393897dec"
+    }
+  ]
+}

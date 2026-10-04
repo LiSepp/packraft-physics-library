@@ -1,0 +1,102 @@
+{
+  "source_id": "SRC-011",
+  "title_zh": "皮划艇激流回旋运动员通过逆流门时的船体轨迹",
+  "title_original": "Canoe slalom boat trajectory while negotiating an upstream gate",
+  "doi": "10.1080/14763140902934837",
+  "original_language": "en",
+  "original_sha256": "7663d17e2480e6bc312651a4951d5f21211bc1df830c23831eb92d688af672e0",
+  "translation_sha256": "19f8d596f3bec7cd0752f463533fa1fa25b145be1ffc9063ea338cb709c1b873",
+  "inventory_translation_sha256": "b7641712070804b43dcffad3853430b12173ce0807d4bbb423aacf7b7f9d8c7c",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "03_激流回旋与控船/Hunter2009_Upstream_Gate_Trajectory.pdf",
+    "translation": "中文翻译/03_激流回旋与控船/SRC-011-03_激流回旋与控船-皮划艇激流回旋运动员通过逆流门时的船体轨迹.md"
+  },
+  "current_paths": {
+    "original": "中文资料/03_激流回旋与控船/SRC-011/原始证据/Hunter2009_Upstream_Gate_Trajectory.pdf",
+    "translation": "中文资料/03_激流回旋与控船/SRC-011/中文译文.md",
+    "asset_record": "中文资料/03_激流回旋与控船/SRC-011/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "出版方访问条款封面，有下载账号／机构痕迹；未检出开放许可。",
+    "redistribution_status": "暂留本地（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/hunter2009/fig1_course.png",
+      "new": "图片/hunter2009/fig1_course.png",
+      "resource_sha256": "0aa6c946a8a1a80c632c0c9824eccaffb21f0bba14cdaceb7d292f18f1f75980"
+    },
+    {
+      "old": "assets/hunter2009/fig2_calibration_rig.png",
+      "new": "图片/hunter2009/fig2_calibration_rig.png",
+      "resource_sha256": "027b4280033b60b75812cb0920014030213a67c191f072ee102d621f0bf6340e"
+    },
+    {
+      "old": "assets/hunter2009/fig3_marker_locations.png",
+      "new": "图片/hunter2009/fig3_marker_locations.png",
+      "resource_sha256": "9fd65146d6f8de1c69422e2a6ba658f79a814236d179286a972b27ef03f0b6a5"
+    },
+    {
+      "old": "assets/hunter2009/fig4_upstream_turn_positions.png",
+      "new": "图片/hunter2009/fig4_upstream_turn_positions.png",
+      "resource_sha256": "a63c97724e53d25bf4582d1b2b778b75e12a48bec7a19967a1358ccfcd6336a1"
+    },
+    {
+      "old": "assets/hunter2009/fig5_mean_trajectories.png",
+      "new": "图片/hunter2009/fig5_mean_trajectories.png",
+      "resource_sha256": "72ff4b0bfa18a5a4e105d024119897ace06e1fcea1d20c831ea448f62554f81b"
+    },
+    {
+      "old": "assets/hunter2009/fig6_correlation_trials.png",
+      "new": "图片/hunter2009/fig6_correlation_trials.png",
+      "resource_sha256": "97053aa6f7ff5f995a7c8f1913bd2a577fa7d51975d2007deaaacfe55a421276"
+    },
+    {
+      "old": "assets/hunter2009/fig7_correlation_paddlers.png",
+      "new": "图片/hunter2009/fig7_correlation_paddlers.png",
+      "resource_sha256": "6ce27a02317b69caa4ac06f7a84d613c342d4444cf019b43fa45e48e776b3b57"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig1_course.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig1_course.png",
+      "sha256": "0aa6c946a8a1a80c632c0c9824eccaffb21f0bba14cdaceb7d292f18f1f75980"
+    },
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig2_calibration_rig.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig2_calibration_rig.png",
+      "sha256": "027b4280033b60b75812cb0920014030213a67c191f072ee102d621f0bf6340e"
+    },
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig3_marker_locations.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig3_marker_locations.png",
+      "sha256": "9fd65146d6f8de1c69422e2a6ba658f79a814236d179286a972b27ef03f0b6a5"
+    },
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig4_upstream_turn_positions.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig4_upstream_turn_positions.png",
+      "sha256": "a63c97724e53d25bf4582d1b2b778b75e12a48bec7a19967a1358ccfcd6336a1"
+    },
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig5_mean_trajectories.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig5_mean_trajectories.png",
+      "sha256": "72ff4b0bfa18a5a4e105d024119897ace06e1fcea1d20c831ea448f62554f81b"
+    },
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig6_correlation_trials.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig6_correlation_trials.png",
+      "sha256": "97053aa6f7ff5f995a7c8f1913bd2a577fa7d51975d2007deaaacfe55a421276"
+    },
+    {
+      "old_path": "中文翻译/03_激流回旋与控船/assets/hunter2009/fig7_correlation_paddlers.png",
+      "current_path": "中文资料/03_激流回旋与控船/SRC-011/图片/hunter2009/fig7_correlation_paddlers.png",
+      "sha256": "6ce27a02317b69caa4ac06f7a84d613c342d4444cf019b43fa45e48e776b3b57"
+    }
+  ]
+}

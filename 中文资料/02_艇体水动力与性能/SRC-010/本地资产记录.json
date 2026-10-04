@@ -1,0 +1,82 @@
+{
+  "source_id": "SRC-010",
+  "title_zh": "充气艇的设计与性能：柔性与环境因素",
+  "title_original": "Design and Performance of Inflatable Boats: Flexibility and Environmental Considerations",
+  "doi": null,
+  "original_language": "en",
+  "original_sha256": "7c5e5c65266acfc2d57e5917eb8ddf5383e100348e80de6a0080267ff43122b5",
+  "translation_sha256": "aee90e8098ff4cfa205aad972e96d426de3558c09d0a67788f29ab1af0ea362b",
+  "inventory_translation_sha256": "db4c2cb32d7019b337575ec57ad016ff5d72faef5b2c7d370e7faf841ad5ec25",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "02_艇体水动力与性能/Design and Performance of Inflatable Boats: Flexibility and Environmental Considerations.pdf",
+    "translation": "中文翻译/02_艇体水动力与性能/SRC-010-02_艇体水动力与性能-充气艇的设计与性能：柔性与环境因素.md"
+  },
+  "current_paths": {
+    "original": "中文资料/02_艇体水动力与性能/SRC-010/原始证据/Design and Performance of Inflatable Boats: Flexibility and Environmental Considerations.pdf",
+    "translation": "中文资料/02_艇体水动力与性能/SRC-010/中文译文.md",
+    "asset_record": "中文资料/02_艇体水动力与性能/SRC-010/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "本地会议稿未检出明确开放许可；出版版本与授权待核对。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/halswell2011/fig01.png",
+      "new": "图片/halswell2011/fig01.png",
+      "resource_sha256": "6e10e05fb465788ab82e3497c94aafa7acdc038f04c2f10a105b2ddb2168f3c3"
+    },
+    {
+      "old": "assets/halswell2011/fig02.png",
+      "new": "图片/halswell2011/fig02.png",
+      "resource_sha256": "2c45c9c0ca1794cb4150874d661f6825e5f35977d4086d253415ca6e77895a4d"
+    },
+    {
+      "old": "assets/halswell2011/fig03.png",
+      "new": "图片/halswell2011/fig03.png",
+      "resource_sha256": "0b478c8b66f06f8a090caf2840904b71cc1bae5d529d54f9213bb11d88dadb92"
+    },
+    {
+      "old": "assets/halswell2011/fig04.png",
+      "new": "图片/halswell2011/fig04.png",
+      "resource_sha256": "82dccaea87ed6cad7a073222ec517153346cabd1a8f1f104285933943d706dc5"
+    },
+    {
+      "old": "assets/halswell2011/fig05.png",
+      "new": "图片/halswell2011/fig05.png",
+      "resource_sha256": "c64f0c4477dc022cb4dffffbbe305622a7374b65594b755cf7f0cda9026d780d"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2011/fig01.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-010/图片/halswell2011/fig01.png",
+      "sha256": "6e10e05fb465788ab82e3497c94aafa7acdc038f04c2f10a105b2ddb2168f3c3"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2011/fig02.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-010/图片/halswell2011/fig02.png",
+      "sha256": "2c45c9c0ca1794cb4150874d661f6825e5f35977d4086d253415ca6e77895a4d"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2011/fig03.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-010/图片/halswell2011/fig03.png",
+      "sha256": "0b478c8b66f06f8a090caf2840904b71cc1bae5d529d54f9213bb11d88dadb92"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2011/fig04.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-010/图片/halswell2011/fig04.png",
+      "sha256": "82dccaea87ed6cad7a073222ec517153346cabd1a8f1f104285933943d706dc5"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2011/fig05.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-010/图片/halswell2011/fig05.png",
+      "sha256": "c64f0c4477dc022cb4dffffbbe305622a7374b65594b755cf7f0cda9026d780d"
+    }
+  ]
+}

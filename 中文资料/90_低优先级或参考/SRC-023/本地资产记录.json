@@ -1,0 +1,92 @@
+{
+  "source_id": "SRC-023",
+  "title_zh": "皮艇桨的仪器化研究：探究桨叶与水的相互作用",
+  "title_original": "Instrumentation of a kayak paddle to investigate blade/water interactions",
+  "doi": "10.1016/j.proeng.2011.05.121",
+  "original_language": "en",
+  "original_sha256": "ae1563e2fd53c13bf522ceab26d315d83b28765e138349d52b3491099461f261",
+  "translation_sha256": "f8102513e11886d2ba7df261f8b759dea59ac4f1794843628e3132eb48b1ca23",
+  "inventory_translation_sha256": "8d413e5eed3cf57c3d7a8ac58374cb695348849c170f894260d654b4f632352a",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "90_低优先级或参考/皮划艇桨的仪器化研究以探究桨叶:水的相互作用-english-Instrumentation-of-a-kayak-paddle-to-investigate-blade-_2011_Procedia-Engine.pdf",
+    "translation": "中文翻译/90_低优先级或参考/SRC-023-90_低优先级或参考-皮艇桨的仪器化研究：探究桨叶与水的相互作用.md"
+  },
+  "current_paths": {
+    "original": "中文资料/90_低优先级或参考/SRC-023/原始证据/皮划艇桨的仪器化研究以探究桨叶:水的相互作用-english-Instrumentation-of-a-kayak-paddle-to-investigate-blade-_2011_Procedia-Engine.pdf",
+    "translation": "中文资料/90_低优先级或参考/SRC-023/中文译文.md",
+    "asset_record": "中文资料/90_低优先级或参考/SRC-023/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "CC BY-NC-ND",
+    "version": null,
+    "evidence": "p.1：CC BY-NC-ND。原 PDF 与译文分别判断：原件可按许可条件再分发；全文翻译不能凭 ND 许可公开。",
+    "redistribution_status": "译文暂留本地（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/helmer2011/02_figure_1.png",
+      "new": "图片/helmer2011/02_figure_1.png",
+      "resource_sha256": "cfc7a22c7136340de42af260ac07bee3a7bb16ac4790325827c0dcd811b42993"
+    },
+    {
+      "old": "assets/helmer2011/02_figure_2.png",
+      "new": "图片/helmer2011/02_figure_2.png",
+      "resource_sha256": "a12aae4f94e04f0ae7ad21cc1b8e6a8054fefd008c34e720ac272210bda55b84"
+    },
+    {
+      "old": "assets/helmer2011/02_figure_3.png",
+      "new": "图片/helmer2011/02_figure_3.png",
+      "resource_sha256": "b9e34d917db392c708ef45936af973da4f631c7e575bb8d70b79fbfb9c402fe4"
+    },
+    {
+      "old": "assets/helmer2011/02_figure_4.png",
+      "new": "图片/helmer2011/02_figure_4.png",
+      "resource_sha256": "413fd00751893feef118f3f2e62dfc974acd46ab38a11fe7c7bb1d01e7f6d344"
+    },
+    {
+      "old": "assets/helmer2011/02_figure_5.png",
+      "new": "图片/helmer2011/02_figure_5.png",
+      "resource_sha256": "d6cec410bf49dfc99dccf01da50f0baf5961970672c5bdf989ca91b45b82799a"
+    },
+    {
+      "old": "assets/helmer2011/02_figure_6.png",
+      "new": "图片/helmer2011/02_figure_6.png",
+      "resource_sha256": "4c5696d51b2b18a7d82a0c07d34bd22444dd0c53540bbd16072618b9431b3449"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/helmer2011/02_figure_1.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-023/图片/helmer2011/02_figure_1.png",
+      "sha256": "cfc7a22c7136340de42af260ac07bee3a7bb16ac4790325827c0dcd811b42993"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/helmer2011/02_figure_2.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-023/图片/helmer2011/02_figure_2.png",
+      "sha256": "a12aae4f94e04f0ae7ad21cc1b8e6a8054fefd008c34e720ac272210bda55b84"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/helmer2011/02_figure_3.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-023/图片/helmer2011/02_figure_3.png",
+      "sha256": "b9e34d917db392c708ef45936af973da4f631c7e575bb8d70b79fbfb9c402fe4"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/helmer2011/02_figure_4.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-023/图片/helmer2011/02_figure_4.png",
+      "sha256": "413fd00751893feef118f3f2e62dfc974acd46ab38a11fe7c7bb1d01e7f6d344"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/helmer2011/02_figure_5.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-023/图片/helmer2011/02_figure_5.png",
+      "sha256": "d6cec410bf49dfc99dccf01da50f0baf5961970672c5bdf989ca91b45b82799a"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/helmer2011/02_figure_6.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-023/图片/helmer2011/02_figure_6.png",
+      "sha256": "4c5696d51b2b18a7d82a0c07d34bd22444dd0c53540bbd16072618b9431b3449"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_id": "SRC-001",
+  "title_zh": "海洋皮艇传统桨的水动力特性",
+  "title_original": "Hydrodynamic characteristics of sea kayak traditional paddles",
+  "doi": "10.1007/s12283-017-0262-x",
+  "original_language": "en",
+  "original_sha256": "3b15a44433f404b58936526b70d875bfb7a0c58c5485fe798fab03586c862448",
+  "translation_sha256": "dad07d7c2feca9b7fec97623b5190ae11cc2b6f8fd131ae96ff49780d09f35ef",
+  "inventory_translation_sha256": "1287a941b8e0b05458c4366eb4242fcfe8f9c23b59c4715c5ce5f16f6b5aa1c8",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "01_桨叶推进与划桨力学/Hemon2018_Sea_Kayak_Paddles.pdf",
+    "translation": "中文翻译/01_桨叶推进与划桨力学/SRC-001-01_桨叶推进与划桨力学-海洋皮艇传统桨的水动力特性.md"
+  },
+  "current_paths": {
+    "original": "中文资料/01_桨叶推进与划桨力学/SRC-001/原始证据/Hemon2018_Sea_Kayak_Paddles.pdf",
+    "translation": "中文资料/01_桨叶推进与划桨力学/SRC-001/中文译文.md",
+    "asset_record": "中文资料/01_桨叶推进与划桨力学/SRC-001/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "首页有版权归属，未发现明确允许再分发或翻译的开放许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/hemon2018/fig1_paddle_blades.png",
+      "new": "图片/hemon2018/fig1_paddle_blades.png",
+      "resource_sha256": "ce97007ffae98620ed5b4ec7eaaf2a996328840aec58cab3bd7655ab51f1932d"
+    },
+    {
+      "old": "assets/hemon2018/fig2_velocity_definition.png",
+      "new": "图片/hemon2018/fig2_velocity_definition.png",
+      "resource_sha256": "a5d4924a51cc5fa7811da2131143ec27666e657941aee2158622482bc48db7dd"
+    },
+    {
+      "old": "assets/hemon2018/fig3_cameras.png",
+      "new": "图片/hemon2018/fig3_cameras.png",
+      "resource_sha256": "3bf88987cc54c5b221d2bc47f4e449eb4579bb292a053e90fcabac4089fa71ed"
+    },
+    {
+      "old": "assets/hemon2018/fig4_flow_meter.png",
+      "new": "图片/hemon2018/fig4_flow_meter.png",
+      "resource_sha256": "7256f940ee77e2b15a36c6ca1b6a238424c6fdfc3f43d5dfed5b2f86a1aef143"
+    },
+    {
+      "old": "assets/hemon2018/fig5_angle_of_attack.png",
+      "new": "图片/hemon2018/fig5_angle_of_attack.png",
+      "resource_sha256": "f6ea014b344916312355d779fb543320d71eccbe51aa66a1431da0018f831bf2"
+    },
+    {
+      "old": "assets/hemon2018/fig6_windtunnel_models.png",
+      "new": "图片/hemon2018/fig6_windtunnel_models.png",
+      "resource_sha256": "4aad5dc3eb58cc062b64bbd7c43e3079fe8af7accbe6b93abd13a0fc625814e6"
+    },
+    {
+      "old": "assets/hemon2018/fig7_greenlandic_coeffs.png",
+      "new": "图片/hemon2018/fig7_greenlandic_coeffs.png",
+      "resource_sha256": "1d508f6d2422b2eda5313958f14326cd3c2d7143bdab02cebb8a8f8ca25e857e"
+    },
+    {
+      "old": "assets/hemon2018/fig8_aleutian_coeffs.png",
+      "new": "图片/hemon2018/fig8_aleutian_coeffs.png",
+      "resource_sha256": "eff57b7d8797a82efab40d51cefe2f7ab70834d3c4de4aec634fbfc6a9774ebb"
+    },
+    {
+      "old": "assets/hemon2018/fig9_lift_comparison.png",
+      "new": "图片/hemon2018/fig9_lift_comparison.png",
+      "resource_sha256": "3381c161d52e60338a5f5542649634e99c811cf4e393119122dff7e44d0e6e4f"
+    },
+    {
+      "old": "assets/hemon2018/fig10_3d_drag_lift.png",
+      "new": "图片/hemon2018/fig10_3d_drag_lift.png",
+      "resource_sha256": "2c3041b2653292f88184c55b0db2da5b5db7e194c801ad77bffb765d549c1181"
+    },
+    {
+      "old": "assets/hemon2018/fig11_force_comparison.png",
+      "new": "图片/hemon2018/fig11_force_comparison.png",
+      "resource_sha256": "36aff3463b046864b058f5a0a7947a61f74a9321c4aea5f7424e5bc420049b91"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig1_paddle_blades.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig1_paddle_blades.png",
+      "sha256": "ce97007ffae98620ed5b4ec7eaaf2a996328840aec58cab3bd7655ab51f1932d"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig2_velocity_definition.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig2_velocity_definition.png",
+      "sha256": "a5d4924a51cc5fa7811da2131143ec27666e657941aee2158622482bc48db7dd"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig3_cameras.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig3_cameras.png",
+      "sha256": "3bf88987cc54c5b221d2bc47f4e449eb4579bb292a053e90fcabac4089fa71ed"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig4_flow_meter.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig4_flow_meter.png",
+      "sha256": "7256f940ee77e2b15a36c6ca1b6a238424c6fdfc3f43d5dfed5b2f86a1aef143"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig5_angle_of_attack.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig5_angle_of_attack.png",
+      "sha256": "f6ea014b344916312355d779fb543320d71eccbe51aa66a1431da0018f831bf2"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig6_windtunnel_models.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig6_windtunnel_models.png",
+      "sha256": "4aad5dc3eb58cc062b64bbd7c43e3079fe8af7accbe6b93abd13a0fc625814e6"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig7_greenlandic_coeffs.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig7_greenlandic_coeffs.png",
+      "sha256": "1d508f6d2422b2eda5313958f14326cd3c2d7143bdab02cebb8a8f8ca25e857e"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig8_aleutian_coeffs.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig8_aleutian_coeffs.png",
+      "sha256": "eff57b7d8797a82efab40d51cefe2f7ab70834d3c4de4aec634fbfc6a9774ebb"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig9_lift_comparison.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig9_lift_comparison.png",
+      "sha256": "3381c161d52e60338a5f5542649634e99c811cf4e393119122dff7e44d0e6e4f"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig10_3d_drag_lift.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig10_3d_drag_lift.png",
+      "sha256": "2c3041b2653292f88184c55b0db2da5b5db7e194c801ad77bffb765d549c1181"
+    },
+    {
+      "old_path": "中文翻译/01_桨叶推进与划桨力学/assets/hemon2018/fig11_force_comparison.png",
+      "current_path": "中文资料/01_桨叶推进与划桨力学/SRC-001/图片/hemon2018/fig11_force_comparison.png",
+      "sha256": "36aff3463b046864b058f5a0a7947a61f74a9321c4aea5f7424e5bc420049b91"
+    }
+  ]
+}

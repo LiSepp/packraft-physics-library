@@ -1,0 +1,102 @@
+{
+  "source_id": "SRC-022",
+  "title_zh": "精英静水皮艇划手使用翼桨的技术",
+  "title_original": "The Technique of Elite Flatwater Kayak Paddlers Using the Wing Paddle",
+  "doi": "10.1123/ijsb.8.3.233",
+  "original_language": "en",
+  "original_sha256": "c090f10915f18321605dbdf3ca63502e81d1a9023f6f64ebd0506456d091fd64",
+  "translation_sha256": "83c07e8797f0940d380b452baee8a68fba9af8a079bbfd9041849775463721aa",
+  "inventory_translation_sha256": "0eeb7d447285fea160979534f548d0e84b28bc2aee7f30110ae7da5ed086e310",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "90_低优先级或参考/The Technique of Elite Flatwater Kayak Paddlers Using the Wing Paddle.pdf",
+    "translation": "中文翻译/90_低优先级或参考/SRC-022-90_低优先级或参考-精英静水皮艇划手使用翼桨的技术.md"
+  },
+  "current_paths": {
+    "original": "中文资料/90_低优先级或参考/SRC-022/原始证据/The Technique of Elite Flatwater Kayak Paddlers Using the Wing Paddle.pdf",
+    "translation": "中文资料/90_低优先级或参考/SRC-022/中文译文.md",
+    "asset_record": "中文资料/90_低优先级或参考/SRC-022/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "旧期刊扫描稿未检出明确开放许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/kendal1992/fig01.png",
+      "new": "图片/kendal1992/fig01.png",
+      "resource_sha256": "d33a632c7a0ee6ccc535881c063c66169ce72ff314ac3f064d1b4c27d0b8ebb3"
+    },
+    {
+      "old": "assets/kendal1992/fig02.png",
+      "new": "图片/kendal1992/fig02.png",
+      "resource_sha256": "dff3ba039010ac2246eafce026ec1001dea5d9ac4518394cd3d6490a6f6d4afd"
+    },
+    {
+      "old": "assets/kendal1992/fig03_ab.png",
+      "new": "图片/kendal1992/fig03_ab.png",
+      "resource_sha256": "661ef1d67a69881df86ef0107788c71b872e2f72ccee5fb969da877483699300"
+    },
+    {
+      "old": "assets/kendal1992/fig03_cd.png",
+      "new": "图片/kendal1992/fig03_cd.png",
+      "resource_sha256": "1de1b68435587395ac3bd9ec065ab876006d011bb017efae7d49b9591ef9d797"
+    },
+    {
+      "old": "assets/kendal1992/fig04_ab.png",
+      "new": "图片/kendal1992/fig04_ab.png",
+      "resource_sha256": "4ac306d884631fe330bda73164da12f899a247749fab4b43e1d1ab31504ecb47"
+    },
+    {
+      "old": "assets/kendal1992/fig04_cd.png",
+      "new": "图片/kendal1992/fig04_cd.png",
+      "resource_sha256": "d6720603cf5e5fa68e6894531ad30d91f60930ddb493509a45260b98ffe58540"
+    },
+    {
+      "old": "assets/kendal1992/fig05.png",
+      "new": "图片/kendal1992/fig05.png",
+      "resource_sha256": "e7141c21cb5851f650cf95cadc19adf5d4743a5749e3eb3a89d7e7a2fb6d6df1"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig01.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig01.png",
+      "sha256": "d33a632c7a0ee6ccc535881c063c66169ce72ff314ac3f064d1b4c27d0b8ebb3"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig02.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig02.png",
+      "sha256": "dff3ba039010ac2246eafce026ec1001dea5d9ac4518394cd3d6490a6f6d4afd"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig03_ab.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig03_ab.png",
+      "sha256": "661ef1d67a69881df86ef0107788c71b872e2f72ccee5fb969da877483699300"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig03_cd.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig03_cd.png",
+      "sha256": "1de1b68435587395ac3bd9ec065ab876006d011bb017efae7d49b9591ef9d797"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig04_ab.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig04_ab.png",
+      "sha256": "4ac306d884631fe330bda73164da12f899a247749fab4b43e1d1ab31504ecb47"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig04_cd.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig04_cd.png",
+      "sha256": "d6720603cf5e5fa68e6894531ad30d91f60930ddb493509a45260b98ffe58540"
+    },
+    {
+      "old_path": "中文翻译/90_低优先级或参考/assets/kendal1992/fig05.png",
+      "current_path": "中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig05.png",
+      "sha256": "e7141c21cb5851f650cf95cadc19adf5d4743a5749e3eb3a89d7e7a2fb6d6df1"
+    }
+  ]
+}

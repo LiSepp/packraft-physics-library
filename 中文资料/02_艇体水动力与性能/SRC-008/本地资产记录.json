@@ -1,0 +1,212 @@
+{
+  "source_id": "SRC-008",
+  "title_zh": "新型充气皮艇开发的水动力性能评价",
+  "title_original": "Hydrodynamic Evaluation for Developing the New Inflatable Kayak",
+  "doi": "10.5916/jkosme.2015.39.3.334",
+  "original_language": "ko",
+  "original_sha256": "a9eb409b5048edeff05219f8a4ff34ec660eb423dc8f31f11753e17ddaabb8c0",
+  "translation_sha256": "1f9a23ebc1806bb0f1213949e5d56a778d65e73e76da501cf5aa1b6a676e1cc6",
+  "inventory_translation_sha256": "bfc11610c5c7b80fdbdb9921bb10d38fd7abe370a24af3ddd8a96780c8a8a84f",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "02_艇体水动力与性能/Hah2015_New_Inflatable_Kayak_Hydrodynamics.pdf",
+    "translation": "中文翻译/02_艇体水动力与性能/SRC-008-02_艇体水动力与性能-新型充气皮艇开发的水动力性能评价.md"
+  },
+  "current_paths": {
+    "original": "中文资料/02_艇体水动力与性能/SRC-008/原始证据/Hah2015_New_Inflatable_Kayak_Hydrodynamics.pdf",
+    "translation": "中文资料/02_艇体水动力与性能/SRC-008/中文译文.md",
+    "asset_record": "中文资料/02_艇体水动力与性能/SRC-008/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "CC BY-NC",
+    "version": "3.0",
+    "evidence": "p.1：CC BY-NC 3.0；需符合非商业条件、署名及翻译标注，并核对图的单独权利。",
+    "redistribution_status": "条件更严格（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/hah2015/fig01.png",
+      "new": "图片/hah2015/fig01.png",
+      "resource_sha256": "58764ff04c891a18b6c1bb7cee5230f898b1fff649fa8a23eb3baa97d85af545"
+    },
+    {
+      "old": "assets/hah2015/fig02.png",
+      "new": "图片/hah2015/fig02.png",
+      "resource_sha256": "7a7f6bd9fd50a52fcbc2f1564f5dbef41ca769ecdf69d11171fb9af9319997c8"
+    },
+    {
+      "old": "assets/hah2015/fig03.png",
+      "new": "图片/hah2015/fig03.png",
+      "resource_sha256": "976e6c943e1b71db3c0a80845fb17dbc90b19b8d262adc269231130e073287db"
+    },
+    {
+      "old": "assets/hah2015/fig04.png",
+      "new": "图片/hah2015/fig04.png",
+      "resource_sha256": "2efe072d8c4a3b369cb2882216921b95a3d570a55c149493c126825cd2af9a4b"
+    },
+    {
+      "old": "assets/hah2015/fig05.png",
+      "new": "图片/hah2015/fig05.png",
+      "resource_sha256": "830b669749612c0cfcdf5f53a0608a4ab464a81c7ffa5fc5369a95e86fb5fc78"
+    },
+    {
+      "old": "assets/hah2015/fig06.png",
+      "new": "图片/hah2015/fig06.png",
+      "resource_sha256": "61a1f0ef47017970708f0858039b2aefcf590e4312b022cc6efd33433b7ff122"
+    },
+    {
+      "old": "assets/hah2015/fig07.png",
+      "new": "图片/hah2015/fig07.png",
+      "resource_sha256": "ea138d4fa434515e47bb22553ceb7b68d42b4351f02d50a173ec2fbf27815c02"
+    },
+    {
+      "old": "assets/hah2015/fig08.png",
+      "new": "图片/hah2015/fig08.png",
+      "resource_sha256": "1e25e7509a18a51937cc60d3c3f245972dbaf80737245b41491d5ed7bff3556f"
+    },
+    {
+      "old": "assets/hah2015/fig09.png",
+      "new": "图片/hah2015/fig09.png",
+      "resource_sha256": "6976eb37e36fe0f2d5d4f38df6dfee327f05f1f1706fb74860edf1a5c486feaa"
+    },
+    {
+      "old": "assets/hah2015/fig10.png",
+      "new": "图片/hah2015/fig10.png",
+      "resource_sha256": "0b5a3f88efa7edcdc8f6ed0b465b2241023d52390a844e43be3a62ca1e1d16c7"
+    },
+    {
+      "old": "assets/hah2015/fig11.png",
+      "new": "图片/hah2015/fig11.png",
+      "resource_sha256": "3ca345161f4f24e92bdb3a3264e134e1f78e02d33c507b6968bba11e43b3e80d"
+    },
+    {
+      "old": "assets/hah2015/fig12.png",
+      "new": "图片/hah2015/fig12.png",
+      "resource_sha256": "7677c788856e2aaa1263dbf051f42027be81fad2b2b5f03599c82c4d426ae512"
+    },
+    {
+      "old": "assets/hah2015/fig13.png",
+      "new": "图片/hah2015/fig13.png",
+      "resource_sha256": "571f9ab55e9fcea3ac572b685105bb5fb1cdf796ef431538169bb6544414e093"
+    },
+    {
+      "old": "assets/hah2015/fig14.png",
+      "new": "图片/hah2015/fig14.png",
+      "resource_sha256": "828e25eb848d6c52527b3e2fa22c30691130cda34db25c323fdc9edece0fa54d"
+    },
+    {
+      "old": "assets/hah2015/fig15.png",
+      "new": "图片/hah2015/fig15.png",
+      "resource_sha256": "941ac521cfc301058940eba71220a7bba8c7f41877f0f8ca6018c0a340bc7ed4"
+    },
+    {
+      "old": "assets/hah2015/fig16.png",
+      "new": "图片/hah2015/fig16.png",
+      "resource_sha256": "13b1de981772014eb4657d598909a47aca9d879862b0eb280231fb6df66edaa0"
+    },
+    {
+      "old": "assets/hah2015/fig17.png",
+      "new": "图片/hah2015/fig17.png",
+      "resource_sha256": "b9a7c05361a36866eebe3a3b9bc10ede5efdde6b0a85e64d1b0d8b06b5a75ff3"
+    },
+    {
+      "old": "assets/hah2015/fig18.png",
+      "new": "图片/hah2015/fig18.png",
+      "resource_sha256": "e6f94f613574c14e36894f3d49fc1256c6330520d3d3bae5ffec95e441fb8882"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig01.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig01.png",
+      "sha256": "58764ff04c891a18b6c1bb7cee5230f898b1fff649fa8a23eb3baa97d85af545"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig02.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig02.png",
+      "sha256": "7a7f6bd9fd50a52fcbc2f1564f5dbef41ca769ecdf69d11171fb9af9319997c8"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig03.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig03.png",
+      "sha256": "976e6c943e1b71db3c0a80845fb17dbc90b19b8d262adc269231130e073287db"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig04.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig04.png",
+      "sha256": "2efe072d8c4a3b369cb2882216921b95a3d570a55c149493c126825cd2af9a4b"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig05.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig05.png",
+      "sha256": "830b669749612c0cfcdf5f53a0608a4ab464a81c7ffa5fc5369a95e86fb5fc78"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig06.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig06.png",
+      "sha256": "61a1f0ef47017970708f0858039b2aefcf590e4312b022cc6efd33433b7ff122"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig07.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig07.png",
+      "sha256": "ea138d4fa434515e47bb22553ceb7b68d42b4351f02d50a173ec2fbf27815c02"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig08.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig08.png",
+      "sha256": "1e25e7509a18a51937cc60d3c3f245972dbaf80737245b41491d5ed7bff3556f"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig09.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig09.png",
+      "sha256": "6976eb37e36fe0f2d5d4f38df6dfee327f05f1f1706fb74860edf1a5c486feaa"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig10.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig10.png",
+      "sha256": "0b5a3f88efa7edcdc8f6ed0b465b2241023d52390a844e43be3a62ca1e1d16c7"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig11.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig11.png",
+      "sha256": "3ca345161f4f24e92bdb3a3264e134e1f78e02d33c507b6968bba11e43b3e80d"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig12.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig12.png",
+      "sha256": "7677c788856e2aaa1263dbf051f42027be81fad2b2b5f03599c82c4d426ae512"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig13.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig13.png",
+      "sha256": "571f9ab55e9fcea3ac572b685105bb5fb1cdf796ef431538169bb6544414e093"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig14.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig14.png",
+      "sha256": "828e25eb848d6c52527b3e2fa22c30691130cda34db25c323fdc9edece0fa54d"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig15.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig15.png",
+      "sha256": "941ac521cfc301058940eba71220a7bba8c7f41877f0f8ca6018c0a340bc7ed4"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig16.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig16.png",
+      "sha256": "13b1de981772014eb4657d598909a47aca9d879862b0eb280231fb6df66edaa0"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig17.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig17.png",
+      "sha256": "b9a7c05361a36866eebe3a3b9bc10ede5efdde6b0a85e64d1b0d8b06b5a75ff3"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/hah2015/fig18.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-008/图片/hah2015/fig18.png",
+      "sha256": "e6f94f613574c14e36894f3d49fc1256c6330520d3d3bae5ffec95e441fb8882"
+    }
+  ]
+}

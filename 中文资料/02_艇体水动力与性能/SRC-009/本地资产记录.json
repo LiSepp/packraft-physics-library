@@ -1,0 +1,132 @@
+{
+  "source_id": "SRC-009",
+  "title_zh": "水弹性充气艇：相关文献与新的设计考虑",
+  "title_original": "Hydroelastic Inflatable Boats: Relevant Literature and New Design Considerations",
+  "doi": "10.3940/rina.ijsct.2012.b1.125tn",
+  "original_language": "en",
+  "original_sha256": "7234acea15b1ee2b0ccd86e4de3c63835eb7e6f8f48c8c5287e00cf589344340",
+  "translation_sha256": "93f07142315bd2095bfb6e0f125398b903300ff9179f4bc233e0aa867eb9e2a4",
+  "inventory_translation_sha256": "ba073fc41ab1b5e7f0a0f1224d0edeb332a34fe4877d916985dee47f602539c0",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "02_艇体水动力与性能/Hydroelastic Inflatable Boats: Relevant Literature and New Design Considerations.pdf",
+    "translation": "中文翻译/02_艇体水动力与性能/SRC-009-02_艇体水动力与性能-水弹性充气艇：相关文献与新的设计考虑.md"
+  },
+  "current_paths": {
+    "original": "中文资料/02_艇体水动力与性能/SRC-009/原始证据/Hydroelastic Inflatable Boats: Relevant Literature and New Design Considerations.pdf",
+    "translation": "中文资料/02_艇体水动力与性能/SRC-009/中文译文.md",
+    "asset_record": "中文资料/02_艇体水动力与性能/SRC-009/本地资产记录.json"
+  },
+  "has_history_translation": false,
+  "license_screening": {
+    "license": "unknown",
+    "version": null,
+    "evidence": "全文页脚：©2012 RINA；作者／大学提供下载不等于取得再分发或翻译许可。",
+    "redistribution_status": "待许可核对（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/halswell2012/fig01.png",
+      "new": "图片/halswell2012/fig01.png",
+      "resource_sha256": "a63b87d81370ae422a2cc856523cbada14366501edc56314f6ba4953bfb6344a"
+    },
+    {
+      "old": "assets/halswell2012/fig02.png",
+      "new": "图片/halswell2012/fig02.png",
+      "resource_sha256": "03fe1d41f111ce900ab4332fd7ad3de34d23f32d840d834e59bec635db3d5967"
+    },
+    {
+      "old": "assets/halswell2012/fig03.png",
+      "new": "图片/halswell2012/fig03.png",
+      "resource_sha256": "f346182b833e02d42e50ef80632fd1b2af55aec9eb38ef0f2468534985855a0b"
+    },
+    {
+      "old": "assets/halswell2012/fig04.png",
+      "new": "图片/halswell2012/fig04.png",
+      "resource_sha256": "368494f753efd4cbeab173bfae1a45ad7bac98c59d85321a3c1811b343c82bea"
+    },
+    {
+      "old": "assets/halswell2012/fig05.png",
+      "new": "图片/halswell2012/fig05.png",
+      "resource_sha256": "4e526663cddb26c769fe4350209f2440069d19bf92def1db028fd5d10d5a6ea5"
+    },
+    {
+      "old": "assets/halswell2012/fig06.png",
+      "new": "图片/halswell2012/fig06.png",
+      "resource_sha256": "ad12b50d3c7acf4a786264d70537647cd217fd749905ee0aa770975a230bfaa7"
+    },
+    {
+      "old": "assets/halswell2012/fig07.png",
+      "new": "图片/halswell2012/fig07.png",
+      "resource_sha256": "0c00d67b655f6085c24bf140811ae14aced6daf9ce0ffcf473db266d1280abd2"
+    },
+    {
+      "old": "assets/halswell2012/fig08.png",
+      "new": "图片/halswell2012/fig08.png",
+      "resource_sha256": "2c2ccd4351f43028ab138b79fc3d3fb9733a333f7186a8a1747a0bba0f714070"
+    },
+    {
+      "old": "assets/halswell2012/fig09.png",
+      "new": "图片/halswell2012/fig09.png",
+      "resource_sha256": "242bcc10bf8563551a7f047d9f1169209a6e08274bd3f1bead00ef97c05650c8"
+    },
+    {
+      "old": "assets/halswell2012/fig10.png",
+      "new": "图片/halswell2012/fig10.png",
+      "resource_sha256": "19a5c448b3cd64f5d17dece7ef5450a7c338b4239b2f4baf7bb9d619f71bdd60"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig01.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig01.png",
+      "sha256": "a63b87d81370ae422a2cc856523cbada14366501edc56314f6ba4953bfb6344a"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig02.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig02.png",
+      "sha256": "03fe1d41f111ce900ab4332fd7ad3de34d23f32d840d834e59bec635db3d5967"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig03.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig03.png",
+      "sha256": "f346182b833e02d42e50ef80632fd1b2af55aec9eb38ef0f2468534985855a0b"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig04.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig04.png",
+      "sha256": "368494f753efd4cbeab173bfae1a45ad7bac98c59d85321a3c1811b343c82bea"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig05.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig05.png",
+      "sha256": "4e526663cddb26c769fe4350209f2440069d19bf92def1db028fd5d10d5a6ea5"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig06.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig06.png",
+      "sha256": "ad12b50d3c7acf4a786264d70537647cd217fd749905ee0aa770975a230bfaa7"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig07.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig07.png",
+      "sha256": "0c00d67b655f6085c24bf140811ae14aced6daf9ce0ffcf473db266d1280abd2"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig08.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig08.png",
+      "sha256": "2c2ccd4351f43028ab138b79fc3d3fb9733a333f7186a8a1747a0bba0f714070"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig09.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig09.png",
+      "sha256": "242bcc10bf8563551a7f047d9f1169209a6e08274bd3f1bead00ef97c05650c8"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/halswell2012/fig10.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-009/图片/halswell2012/fig10.png",
+      "sha256": "19a5c448b3cd64f5d17dece7ef5450a7c338b4239b2f4baf7bb9d619f71bdd60"
+    }
+  ]
+}

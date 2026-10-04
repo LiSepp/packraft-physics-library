@@ -1,0 +1,202 @@
+{
+  "source_id": "SRC-005",
+  "title_zh": "论皮艇运动的物理学",
+  "title_original": "On the Physics of Kayaking",
+  "doi": "10.3390/app12188925",
+  "original_language": "en",
+  "original_sha256": "5aab1fb1184fadad2a8ad7ec8de203d808d503888043f9ba747f46761a870701",
+  "translation_sha256": "8458d4cded9b5f8296c0c759faf98a74b7f74c42bc72dc1634cae1eb12f390c2",
+  "inventory_translation_sha256": "1c4a70c8166037c94266479abaf99f50f7c36050159c0f631df22891fcd78c5b",
+  "translation_status": "唯一现行主稿；只修改资源相对链接，正文可逆校验通过",
+  "old_paths": {
+    "original": "02_艇体水动力与性能/论皮划艇运动的物理学-english.pdf",
+    "translation": "中文翻译/02_艇体水动力与性能/SRC-005-02_艇体水动力与性能-论皮艇运动的物理学.md"
+  },
+  "current_paths": {
+    "original": "中文资料/02_艇体水动力与性能/SRC-005/原始证据/论皮划艇运动的物理学-english.pdf",
+    "translation": "中文资料/02_艇体水动力与性能/SRC-005/中文译文.md",
+    "asset_record": "中文资料/02_艇体水动力与性能/SRC-005/本地资产记录.json"
+  },
+  "has_history_translation": true,
+  "license_screening": {
+    "license": "CC BY",
+    "version": "4.0",
+    "evidence": "p.1：CC BY 4.0；署名、许可链接、翻译与修改说明、第三方素材核对后可考虑。",
+    "redistribution_status": "有条件可公开（许可初筛，非最终法律结论）",
+    "scope": "初筛，不是最终法律结论"
+  },
+  "link_rewrites": [
+    {
+      "old": "assets/pretot2022/01_figure_1.png",
+      "new": "图片/pretot2022/01_figure_1.png",
+      "resource_sha256": "152578c720a6e8e62088b41e492f25abb11434c5cee69ed1f1a899dc37426db3"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_2.png",
+      "new": "图片/pretot2022/01_figure_2.png",
+      "resource_sha256": "dd55d80388586e7b2ea156546d0b3aeb7d85e766ca941f63ef7478f5de57413a"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_3.png",
+      "new": "图片/pretot2022/01_figure_3.png",
+      "resource_sha256": "9b1b0ee69553eba3012541120fee54abc987db3ee0d97828aff1932ebfd07b85"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_4.png",
+      "new": "图片/pretot2022/01_figure_4.png",
+      "resource_sha256": "8c8afe96d6853ceb09e2c074923822466ae0f25d178296b685ccf66c3a7bf06e"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_5.png",
+      "new": "图片/pretot2022/01_figure_5.png",
+      "resource_sha256": "34b8bb7cdb2bd4b379e32b258598347cce208ac5eca665f4b40e616b29640aa0"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_6.png",
+      "new": "图片/pretot2022/01_figure_6.png",
+      "resource_sha256": "4eb6979325c01a8c052e86e42cf0cef0ea769f36420658ed3e35e4ff9bfe0576"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_7.png",
+      "new": "图片/pretot2022/01_figure_7.png",
+      "resource_sha256": "1b8c7f6fc6aa4340b9710230285ded3ebbbb77665f7f977fc8f5dc839ab23004"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_8.png",
+      "new": "图片/pretot2022/01_figure_8.png",
+      "resource_sha256": "1fcb7be62f3b9503c4cf8b2e87e47d19061e8b2c227d75405eb2f58bf2ee1f50"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_9.png",
+      "new": "图片/pretot2022/01_figure_9.png",
+      "resource_sha256": "236838d4ac4f71ed0d843a2e226408661d865ab281408b22217f82eb3a790eed"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_10.png",
+      "new": "图片/pretot2022/01_figure_10.png",
+      "resource_sha256": "f752fcfd9b15bd1ec8459ce109ac9337cda31c537c35a668ae951451d7b91157"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_11.png",
+      "new": "图片/pretot2022/01_figure_11.png",
+      "resource_sha256": "fa963343158b92f631ac4ad8dfb4d319e41163c209166b7549d8550442ea4c97"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_12.png",
+      "new": "图片/pretot2022/01_figure_12.png",
+      "resource_sha256": "3252507adcef3865509999845d29f7bd3d5d0f7d7aa90cc92222ffb6963d08e6"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_13.png",
+      "new": "图片/pretot2022/01_figure_13.png",
+      "resource_sha256": "6952a853c3d095e9aa4815197d28691c1a95d7bedf0ee862714a2bfce36967f5"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_14.png",
+      "new": "图片/pretot2022/01_figure_14.png",
+      "resource_sha256": "439345f0f4cc688a905ac44f898496dd6e242390862a85c793f881b23b85717e"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_15.png",
+      "new": "图片/pretot2022/01_figure_15.png",
+      "resource_sha256": "4701016a650df1e5ca113ce98a8d079d33fba4df0733e399c0271169a2b1edf3"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_A1.png",
+      "new": "图片/pretot2022/01_figure_A1.png",
+      "resource_sha256": "9e46ed9b77ff8b6267c6400c02d6c1d97b4ec4686f2e3a55eeee31eb4dfaea14"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_A2.png",
+      "new": "图片/pretot2022/01_figure_A2.png",
+      "resource_sha256": "18ecc5c16a9392f85bbb7a899065198c3c1906a1bf53b6340fc23a341789fd76"
+    }
+  ],
+  "images": [
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_1.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_1.png",
+      "sha256": "152578c720a6e8e62088b41e492f25abb11434c5cee69ed1f1a899dc37426db3"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_2.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_2.png",
+      "sha256": "dd55d80388586e7b2ea156546d0b3aeb7d85e766ca941f63ef7478f5de57413a"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_3.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_3.png",
+      "sha256": "9b1b0ee69553eba3012541120fee54abc987db3ee0d97828aff1932ebfd07b85"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_4.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_4.png",
+      "sha256": "8c8afe96d6853ceb09e2c074923822466ae0f25d178296b685ccf66c3a7bf06e"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_5.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_5.png",
+      "sha256": "34b8bb7cdb2bd4b379e32b258598347cce208ac5eca665f4b40e616b29640aa0"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_6.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_6.png",
+      "sha256": "4eb6979325c01a8c052e86e42cf0cef0ea769f36420658ed3e35e4ff9bfe0576"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_7.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_7.png",
+      "sha256": "1b8c7f6fc6aa4340b9710230285ded3ebbbb77665f7f977fc8f5dc839ab23004"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_8.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_8.png",
+      "sha256": "1fcb7be62f3b9503c4cf8b2e87e47d19061e8b2c227d75405eb2f58bf2ee1f50"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_9.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_9.png",
+      "sha256": "236838d4ac4f71ed0d843a2e226408661d865ab281408b22217f82eb3a790eed"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_10.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_10.png",
+      "sha256": "f752fcfd9b15bd1ec8459ce109ac9337cda31c537c35a668ae951451d7b91157"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_11.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_11.png",
+      "sha256": "fa963343158b92f631ac4ad8dfb4d319e41163c209166b7549d8550442ea4c97"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_12.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_12.png",
+      "sha256": "3252507adcef3865509999845d29f7bd3d5d0f7d7aa90cc92222ffb6963d08e6"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_13.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_13.png",
+      "sha256": "6952a853c3d095e9aa4815197d28691c1a95d7bedf0ee862714a2bfce36967f5"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_14.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_14.png",
+      "sha256": "439345f0f4cc688a905ac44f898496dd6e242390862a85c793f881b23b85717e"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_15.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_15.png",
+      "sha256": "4701016a650df1e5ca113ce98a8d079d33fba4df0733e399c0271169a2b1edf3"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_A1.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_A1.png",
+      "sha256": "9e46ed9b77ff8b6267c6400c02d6c1d97b4ec4686f2e3a55eeee31eb4dfaea14"
+    },
+    {
+      "old_path": "中文翻译/02_艇体水动力与性能/assets/pretot2022/01_figure_A2.png",
+      "current_path": "中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_A2.png",
+      "sha256": "18ecc5c16a9392f85bbb7a899065198c3c1906a1bf53b6340fc23a341789fd76"
+    }
+  ]
+}
