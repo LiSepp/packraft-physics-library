@@ -1,0 +1,35 @@
+{
+  "source_id": "SRC-013",
+  "status": "历史差异稿，非现行版本",
+  "old_path": "中文翻译_副本/03_激流回旋与控船/03_精英激流回旋划桨动作分析_中文.md",
+  "current_path": "历史版本/旧译稿/SRC-013/旧译稿_03_精英激流回旋划桨动作分析_中文.md",
+  "original_sha256": "4bb67eb23ab48d7a32416a3fd91da9fa0c9c67de9fb0cf67ef36c78d4faf4458",
+  "stored_sha256": "28f2a6e69dde51cd0437ea609b2384493b734aecbd5046f8b4d91646366f599c",
+  "link_rewrites": [
+    {
+      "old": "assets/messias2018/03_figure_1.png",
+      "new": "../../../中文资料/03_激流回旋与控船/SRC-013/图片/messias2018/03_figure_1.png",
+      "resource_sha256": "5683d29e345ab6f80f6b4e82781acd3eba32624d80ebb1e0e83824c509117ca4"
+    },
+    {
+      "old": "assets/messias2018/03_figure_2.png",
+      "new": "../../../中文资料/03_激流回旋与控船/SRC-013/图片/messias2018/03_figure_2.png",
+      "resource_sha256": "db7480f133b0af6155a3b18b91fc6cc0e38192a150ae7fdd9fa049a8051e5df0"
+    },
+    {
+      "old": "assets/messias2018/03_figure_3.png",
+      "new": "../../../中文资料/03_激流回旋与控船/SRC-013/图片/messias2018/03_figure_3.png",
+      "resource_sha256": "3c15f23bc1e2404773c0a0db2f5f97681b4a7c91cc63de8fc2c05abcd6079b0d"
+    },
+    {
+      "old": "assets/messias2018/03_figure_4.png",
+      "new": "../../../中文资料/03_激流回旋与控船/SRC-013/图片/messias2018/03_figure_4.png",
+      "resource_sha256": "a62ea3be9ac4e33abdf65219ea6cca4907389f79c0572aa3fb94786a46715096"
+    },
+    {
+      "old": "assets/messias2018/03_figure_5.png",
+      "new": "../../../中文资料/03_激流回旋与控船/SRC-013/图片/messias2018/03_figure_5.png",
+      "resource_sha256": "7693496716e9b53dc19d0be31d85ebf0ab87518bbb8985ed309eeb16d43e8814"
+    }
+  ]
+}

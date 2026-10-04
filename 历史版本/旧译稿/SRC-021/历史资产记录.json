@@ -1,0 +1,25 @@
+{
+  "source_id": "SRC-021",
+  "status": "历史差异稿，非现行版本",
+  "old_path": "中文翻译_副本/05_人体生物力学与训练/Determinants_of_kayak_paddling_performance_中文.md",
+  "current_path": "历史版本/旧译稿/SRC-021/旧译稿_Determinants_of_kayak_paddling_performance_中文.md",
+  "original_sha256": "e78fb348d10c5ee4140b5669515d04e55afd79c392bf7a798629d88258ccc0ac",
+  "stored_sha256": "ba30bb3376f77089d7ba631540b35613954a5d65de6f1806ae3e3876a5913cab",
+  "link_rewrites": [
+    {
+      "old": "assets/michael2009/fig01.png",
+      "new": "../../../中文资料/05_人体生物力学与训练/SRC-021/图片/michael2009/fig01.png",
+      "resource_sha256": "6e061b72af1fb463fa4415211cfcbb27c6e7e619bd571378965f9707349b3402"
+    },
+    {
+      "old": "assets/michael2009/fig02.png",
+      "new": "../../../中文资料/05_人体生物力学与训练/SRC-021/图片/michael2009/fig02.png",
+      "resource_sha256": "50521f54878883c7799e88847e7e4512605b0467f3393c9b3e9e562fc6d32065"
+    },
+    {
+      "old": "assets/michael2009/fig03.png",
+      "new": "../../../中文资料/05_人体生物力学与训练/SRC-021/图片/michael2009/fig03.png",
+      "resource_sha256": "de6b9e0c02ec3634082d22cadbb5fdb67938f3456e8b396b43d420fad9eb0122"
+    }
+  ]
+}

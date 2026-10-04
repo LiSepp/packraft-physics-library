@@ -1,0 +1,45 @@
+{
+  "source_id": "SRC-022",
+  "status": "历史差异稿，非现行版本",
+  "old_path": "中文翻译_副本/90_低优先级或参考/Kendal1992_Wing_Paddle_Technique_中文.md",
+  "current_path": "历史版本/旧译稿/SRC-022/旧译稿_Kendal1992_Wing_Paddle_Technique_中文.md",
+  "original_sha256": "547b3a00bd07886b9ea3de3b398c67a3a8aacc89233438eefb97c3d37aaf3b70",
+  "stored_sha256": "c946254f0f690532c81b5a64d3b9bb702ec62c249febf414975f53db88adad21",
+  "link_rewrites": [
+    {
+      "old": "assets/kendal1992/fig01.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig01.png",
+      "resource_sha256": "d33a632c7a0ee6ccc535881c063c66169ce72ff314ac3f064d1b4c27d0b8ebb3"
+    },
+    {
+      "old": "assets/kendal1992/fig02.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig02.png",
+      "resource_sha256": "dff3ba039010ac2246eafce026ec1001dea5d9ac4518394cd3d6490a6f6d4afd"
+    },
+    {
+      "old": "assets/kendal1992/fig03_ab.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig03_ab.png",
+      "resource_sha256": "661ef1d67a69881df86ef0107788c71b872e2f72ccee5fb969da877483699300"
+    },
+    {
+      "old": "assets/kendal1992/fig03_cd.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig03_cd.png",
+      "resource_sha256": "1de1b68435587395ac3bd9ec065ab876006d011bb017efae7d49b9591ef9d797"
+    },
+    {
+      "old": "assets/kendal1992/fig04_ab.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig04_ab.png",
+      "resource_sha256": "4ac306d884631fe330bda73164da12f899a247749fab4b43e1d1ab31504ecb47"
+    },
+    {
+      "old": "assets/kendal1992/fig04_cd.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig04_cd.png",
+      "resource_sha256": "d6720603cf5e5fa68e6894531ad30d91f60930ddb493509a45260b98ffe58540"
+    },
+    {
+      "old": "assets/kendal1992/fig05.png",
+      "new": "../../../中文资料/90_低优先级或参考/SRC-022/图片/kendal1992/fig05.png",
+      "resource_sha256": "e7141c21cb5851f650cf95cadc19adf5d4743a5749e3eb3a89d7e7a2fb6d6df1"
+    }
+  ]
+}

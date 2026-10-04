@@ -1,0 +1,75 @@
+{
+  "source_id": "SRC-015",
+  "status": "历史差异稿，非现行版本",
+  "old_path": "中文翻译_副本/04_白水河流流体力学/Kieffer1985_Crystal_Rapid_Hydraulic_Jump_中文.md",
+  "current_path": "历史版本/旧译稿/SRC-015/旧译稿_Kieffer1985_Crystal_Rapid_Hydraulic_Jump_中文.md",
+  "original_sha256": "1297ba47659ed38d8ee428b7d6a90eb68462070886319429b9e8bbc1b6c1717d",
+  "stored_sha256": "3702ca616277308563a41763fcbcf4555997399de04bf41f1a23e8f0b732eaa3",
+  "link_rewrites": [
+    {
+      "old": "assets/kieffer1985/fig01.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig01.png",
+      "resource_sha256": "b76d9a435e21c202320199ee3a7bfd06b2fb41e23dd90bfc53dc29c3d4fdff71"
+    },
+    {
+      "old": "assets/kieffer1985/fig02.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig02.png",
+      "resource_sha256": "b2674fd09bc62b03a786cc4920ef9a5226bb2e4ab44280e2f014d1a492780527"
+    },
+    {
+      "old": "assets/kieffer1985/fig03.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig03.png",
+      "resource_sha256": "60c46a884f7b151ab33b330c289539a190b7d94242c197eaed9b6e3a2b580133"
+    },
+    {
+      "old": "assets/kieffer1985/fig04.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig04.png",
+      "resource_sha256": "eb4dd4d260ae489cc4367a8215d74195c3683e5835406fda322fd52e807b72cd"
+    },
+    {
+      "old": "assets/kieffer1985/fig05.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig05.png",
+      "resource_sha256": "69d26acbe78730032b4f45c42e01b5f9ed15c4b3aaf5d1d2a3630f51ad81b932"
+    },
+    {
+      "old": "assets/kieffer1985/fig06.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig06.png",
+      "resource_sha256": "34eb59091a3d1c61e74c073de14e69239ba6ce44ecb454fc0a70b441794b0bc7"
+    },
+    {
+      "old": "assets/kieffer1985/fig07.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig07.png",
+      "resource_sha256": "4bc573b1f43c3a7d014b0969550bbf9782092acaecb69793ca3c526eff522e8c"
+    },
+    {
+      "old": "assets/kieffer1985/fig08.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig08.png",
+      "resource_sha256": "e91ac1a4f960fdc414abcebdba3b80561022fb1a85de6a229f3a86b4d2750b74"
+    },
+    {
+      "old": "assets/kieffer1985/fig09.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig09.png",
+      "resource_sha256": "e1a3c8577f0f83a9cb8a3901e9500aa7c1f3bb408ac580b2b00973eea62a6a16"
+    },
+    {
+      "old": "assets/kieffer1985/fig10.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig10.png",
+      "resource_sha256": "d70e966a13ce09bdd35a8a588bc7bb311e3b79de6bf5c6cc100fff610b8d1bba"
+    },
+    {
+      "old": "assets/kieffer1985/fig11.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig11.png",
+      "resource_sha256": "41c3a72ba2466d88589a58a4d61af39a80b0d8b6569578d604df8c6331b7117b"
+    },
+    {
+      "old": "assets/kieffer1985/fig12.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig12.png",
+      "resource_sha256": "98467d3af087218b33e5b2c90e72027faa1b6d3351fcba1cb77e41214913d709"
+    },
+    {
+      "old": "assets/kieffer1985/fig13.png",
+      "new": "../../../中文资料/04_白水河流流体力学/SRC-015/图片/kieffer1985/fig13.png",
+      "resource_sha256": "bfff46eb6ca2d3984436c51edfd8456c2bd22b547efbd953bc21f841d9fdd8ae"
+    }
+  ]
+}

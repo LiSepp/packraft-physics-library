@@ -1,0 +1,95 @@
+{
+  "source_id": "SRC-005",
+  "status": "历史差异稿，非现行版本",
+  "old_path": "中文翻译_副本/02_艇体水动力与性能/01_论皮划艇运动的物理学_中文.md",
+  "current_path": "历史版本/旧译稿/SRC-005/旧译稿_01_论皮划艇运动的物理学_中文.md",
+  "original_sha256": "7cf39495bcd0edb5acd2d9825e6a016bf26c82b770297a7c57de9dd92ba71391",
+  "stored_sha256": "377c08e45afef51b733b8782ce216d80d6d3e6976c6cb07d36f2f005bb463c27",
+  "link_rewrites": [
+    {
+      "old": "assets/pretot2022/01_figure_1.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_1.png",
+      "resource_sha256": "152578c720a6e8e62088b41e492f25abb11434c5cee69ed1f1a899dc37426db3"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_2.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_2.png",
+      "resource_sha256": "dd55d80388586e7b2ea156546d0b3aeb7d85e766ca941f63ef7478f5de57413a"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_3.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_3.png",
+      "resource_sha256": "9b1b0ee69553eba3012541120fee54abc987db3ee0d97828aff1932ebfd07b85"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_4.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_4.png",
+      "resource_sha256": "8c8afe96d6853ceb09e2c074923822466ae0f25d178296b685ccf66c3a7bf06e"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_5.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_5.png",
+      "resource_sha256": "34b8bb7cdb2bd4b379e32b258598347cce208ac5eca665f4b40e616b29640aa0"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_6.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_6.png",
+      "resource_sha256": "4eb6979325c01a8c052e86e42cf0cef0ea769f36420658ed3e35e4ff9bfe0576"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_7.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_7.png",
+      "resource_sha256": "1b8c7f6fc6aa4340b9710230285ded3ebbbb77665f7f977fc8f5dc839ab23004"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_8.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_8.png",
+      "resource_sha256": "1fcb7be62f3b9503c4cf8b2e87e47d19061e8b2c227d75405eb2f58bf2ee1f50"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_9.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_9.png",
+      "resource_sha256": "236838d4ac4f71ed0d843a2e226408661d865ab281408b22217f82eb3a790eed"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_10.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_10.png",
+      "resource_sha256": "f752fcfd9b15bd1ec8459ce109ac9337cda31c537c35a668ae951451d7b91157"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_11.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_11.png",
+      "resource_sha256": "fa963343158b92f631ac4ad8dfb4d319e41163c209166b7549d8550442ea4c97"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_12.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_12.png",
+      "resource_sha256": "3252507adcef3865509999845d29f7bd3d5d0f7d7aa90cc92222ffb6963d08e6"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_13.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_13.png",
+      "resource_sha256": "6952a853c3d095e9aa4815197d28691c1a95d7bedf0ee862714a2bfce36967f5"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_14.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_14.png",
+      "resource_sha256": "439345f0f4cc688a905ac44f898496dd6e242390862a85c793f881b23b85717e"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_15.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_15.png",
+      "resource_sha256": "4701016a650df1e5ca113ce98a8d079d33fba4df0733e399c0271169a2b1edf3"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_A1.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_A1.png",
+      "resource_sha256": "9e46ed9b77ff8b6267c6400c02d6c1d97b4ec4686f2e3a55eeee31eb4dfaea14"
+    },
+    {
+      "old": "assets/pretot2022/01_figure_A2.png",
+      "new": "../../../中文资料/02_艇体水动力与性能/SRC-005/图片/pretot2022/01_figure_A2.png",
+      "resource_sha256": "18ecc5c16a9392f85bbb7a899065198c3c1906a1bf53b6340fc23a341789fd76"
+    }
+  ]
+}
